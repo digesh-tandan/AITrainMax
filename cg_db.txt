@@ -1,0 +1,101 @@
+train_no	train_name	train_type	schedule_ar	schedule_dep	actual_ar	actual_dep	delay	track	direction
+69019	Rajnandgaon-Raigarh Vande Bharat	Vande Bharat	03:24	16:45	04:43	17:19	79	3	up
+33606	Bilaspur-Dongargarh Vande Bharat	Vande Bharat	13:42	11:15	13:57	11:20	15	1	down
+35294	Balod-Dongargarh Rajdhani	Rajdhani	19:11	14:45	21:00	15:20	109	3	up
+17546	Korba-Ambikapur Rajdhani	Rajdhani	17:09	09:30	18:49	09:39	100	1	down
+53419	Balod-Raipur Shatabdi	Shatabdi	07:14	00:30	08:16	00:49	62	2	down
+25339	Korba-Raipur Shatabdi	Shatabdi	07:35	22:00	08:34	22:19	59	1	down
+40192	Ambikapur-Raipur Shatabdi	Shatabdi	07:44	04:15	08:37	04:16	53	3	down
+11815	Korba-Rajnandgaon Shatabdi	Shatabdi	22:10	16:45	22:38	16:50	28	2	down
+24414	Korba-Bilaspur Jan Shatabdi	Jan Shatabdi	19:39	12:30	20:14	12:35	35	1	down
+24198	Durg-Dongargarh Jan Shatabdi	Jan Shatabdi	07:16	03:15	07:35	03:15	19	3	up
+48905	Rajnandgaon-Bilaspur Jan Shatabdi	Jan Shatabdi	15:23	13:15	15:35	13:20	12	1	up
+82126	Raipur-Korba Jan Shatabdi	Jan Shatabdi	00:48	16:00	01:01	16:01	13	2	up
+87732	Raigarh-Pendra Road Garib Rath	Garib Rath	09:46	07:00	11:24	07:21	98	2	up
+99714	Jangir Champa-Pendra Road Garib Rath	Garib Rath	04:12	00:30	04:46	00:44	34	1	up
+55433	Jangir Champa-Pendra Road Mail	Mail	11:32	06:00	11:56	06:09	24	1	up
+68467	Ambikapur-Raipur Mail	Mail	04:25	00:45	05:13	00:57	48	3	up
+73859	Jangir Champa-Pendra Road Mail	Mail	02:11	17:00	02:59	17:02	48	3	up
+88301	Raigarh-Balod Mail	Mail	02:29	00:00	03:58	00:09	89	2	down
+28207	Durg-Pendra Road Mail	Mail	16:29	09:45	17:50	09:47	81	3	up
+91211	Bilaspur-Durg Mail	Mail	09:29	00:00	10:31	00:23	62	1	up
+77838	Dongargarh-Dalli Rajhara Mail	Mail	13:00	07:00	14:47	07:38	107	2	down
+86703	Korba-Raigarh Mail	Mail	08:42	23:45	09:09	23:50	27	1	down
+42214	Dalli Rajhara-Ambikapur Mail	Mail	15:40	12:30	17:23	12:52	103	1	down
+90211	Balod-Pendra Road Mail	Mail	18:11	10:45	18:51	10:46	40	2	down
+18739	Raipur-Bilaspur Express	Express	06:08	03:00	06:38	03:07	30	3	up
+33957	Ambikapur-Balod Express	Express	02:08	23:15	03:44	23:24	96	2	down
+74888	Rajnandgaon-Raigarh Express	Express	01:26	21:45	01:36	21:48	10	2	up
+28936	Durg-Dalli Rajhara Express	Express	01:18	20:30	02:21	20:41	63	3	down
+43882	Dongargarh-Jangir Champa Express	Express	21:45	18:30	23:28	19:20	103	1	down
+73955	Raigarh-Bilaspur Express	Express	16:54	07:45	18:21	07:47	87	2	up
+51615	Korba-Raipur Express	Express	13:59	04:30	14:30	04:43	31	2	down
+11626	Ambikapur-Bilaspur Express	Express	09:57	03:45	11:02	04:00	65	3	up
+62873	Bilaspur-Pendra Road Express	Express	04:13	23:45	05:52	00:24	99	3	up
+85238	Ambikapur-Pendra Road Express	Express	09:34	03:30	10:40	04:02	66	2	up
+85592	Bilaspur-Ambikapur Express	Express	12:46	05:45	13:02	05:46	16	1	up
+88939	Dalli Rajhara-Dongargarh Express	Express	19:51	14:45	20:40	15:02	49	2	up
+47332	Balod-Korba Express	Express	11:47	08:15	12:58	08:42	71	2	up
+85016	Dongargarh-Rajnandgaon Express	Express	16:03	06:15	17:07	06:26	64	3	up
+17362	Rajnandgaon-Pendra Road Express	Express	17:42	09:15	18:19	09:15	37	3	up
+70560	Korba-Jangir Champa Express	Express	17:13	14:45	17:31	14:51	18	3	up
+74414	Raipur-Durg Express	Express	14:50	08:15	16:15	08:41	85	1	up
+92182	Raipur-Dalli Rajhara Express	Express	08:53	01:30	09:38	01:44	45	3	down
+87502	Dalli Rajhara-Jangir Champa Express	Express	17:55	14:00	18:33	14:03	38	3	down
+66140	Rajnandgaon-Balod Express	Express	11:53	06:00	13:52	06:53	119	3	down
+94557	Balod-Bilaspur Express	Express	03:38	18:00	05:11	18:30	93	3	up
+13827	Balod-Bilaspur Express	Express	00:14	18:00	00:29	18:02	15	2	up
+19435	Korba-Dongargarh Express	Express	01:05	15:30	01:20	15:34	15	1	up
+79802	Durg-Korba Express	Express	14:14	07:45	15:49	08:17	95	3	down
+20208	Dongargarh-Durg Express	Express	13:08	09:30	14:08	09:55	60	2	up
+62673	Rajnandgaon-Pendra Road Express	Express	20:52	16:00	22:49	16:55	117	1	up
+76160	Dongargarh-Pendra Road Express	Express	10:57	04:45	12:27	04:58	90	3	down
+32657	Raipur-Rajnandgaon Express	Express	01:28	20:00	03:28	21:00	120	1	up
+46522	Raigarh-Bilaspur Express	Express	22:18	14:15	23:59	14:58	101	3	down
+99269	Durg-Rajnandgaon Express	Express	12:20	01:45	13:01	01:55	41	3	down
+59229	Dongargarh-Pendra Road Passenger	Passenger	20:37	18:15	21:04	18:28	27	3	down
+95175	Jangir Champa-Dalli Rajhara Passenger	Passenger	15:42	04:45	16:31	04:46	49	2	up
+77595	Durg-Bilaspur Passenger	Passenger	04:34	23:30	05:47	23:45	73	2	down
+77849	Rajnandgaon-Raipur Passenger	Passenger	18:51	10:15	20:37	10:58	106	1	down
+47008	Bilaspur-Jangir Champa Passenger	Passenger	03:05	16:45	03:29	16:47	24	2	up
+13545	Balod-Dongargarh Passenger	Passenger	16:38	09:15	16:52	09:17	14	2	down
+69481	Durg-Bilaspur Passenger	Passenger	15:59	07:30	16:44	07:37	45	1	up
+93588	Jangir Champa-Pendra Road Passenger	Passenger	14:12	03:45	16:08	04:39	116	2	up
+11706	Jangir Champa-Raipur Passenger	Passenger	05:18	23:15	06:33	23:52	75	1	up
+97124	Raigarh-Pendra Road Passenger	Passenger	00:45	22:30	01:41	22:39	56	1	up
+63186	Raipur-Dalli Rajhara Passenger	Passenger	01:20	20:45	02:56	20:51	96	2	down
+82213	Jangir Champa-Raigarh Passenger	Passenger	02:06	15:15	02:35	15:23	29	1	up
+15808	Jangir Champa-Korba Passenger	Passenger	23:48	21:00	00:03	21:00	15	2	down
+29840	Raigarh-Korba Passenger	Passenger	12:05	05:30	12:48	05:40	43	3	up
+67699	Bilaspur-Dalli Rajhara Passenger	Passenger	21:22	14:15	22:55	14:55	93	3	down
+11768	Pendra Road-Ambikapur Passenger	Passenger	19:54	14:45	20:38	14:47	44	2	up
+86564	Ambikapur-Durg Passenger	Passenger	18:35	09:00	19:42	09:05	67	2	up
+76782	Raigarh-Dalli Rajhara Passenger	Passenger	15:58	05:30	17:50	06:03	112	2	up
+97024	Ambikapur-Dongargarh Passenger	Passenger	14:06	12:00	15:13	12:23	67	2	down
+12643	Dalli Rajhara-Balod Passenger	Passenger	18:23	09:00	19:58	09:40	95	3	down
+34080	Dalli Rajhara-Dongargarh Goods	Goods	03:51	21:00	05:20	21:12	89	3	down
+49372	Raipur-Durg Goods	Goods	17:47	13:30	19:36	13:38	109	1	up
+40627	Raipur-Durg Goods	Goods	03:03	23:45	03:21	23:53	18	1	down
+30337	Pendra Road-Bilaspur Goods	Goods	21:00	17:45	21:30	17:50	30	2	down
+23581	Raipur-Durg Goods	Goods	10:19	08:00	12:03	08:33	104	3	down
+95478	Durg-Raigarh Goods	Goods	22:07	20:00	22:38	20:07	31	3	up
+22276	Bilaspur-Ambikapur Goods	Goods	01:07	14:15	02:36	14:23	89	3	down
+30529	Rajnandgaon-Korba Goods	Goods	02:33	15:45	04:12	15:54	99	3	up
+97095	Ambikapur-Dongargarh Goods	Goods	04:35	21:30	04:52	21:38	17	1	up
+43279	Raipur-Ambikapur Goods	Goods	13:50	04:30	14:40	04:41	50	2	up
+15417	Raigarh-Balod Goods	Goods	16:01	08:15	16:16	08:16	15	1	up
+73255	Ambikapur-Raipur Goods	Goods	10:44	00:00	10:54	00:05	10	1	up
+97130	Ambikapur-Durg Goods	Goods	06:23	20:30	06:49	20:38	26	2	down
+69732	Raipur-Ambikapur Goods	Goods	10:58	00:15	12:39	00:19	101	2	down
+64473	Ambikapur-Balod Goods	Goods	16:43	06:45	17:51	07:07	68	3	up
+15907	Pendra Road-Bilaspur Goods	Goods	06:12	03:45	06:33	03:46	21	2	up
+69587	Balod-Durg Goods	Goods	22:12	19:00	22:55	19:14	43	3	up
+52647	Jangir Champa-Raigarh Goods	Goods	22:11	14:00	00:04	14:10	113	1	up
+66062	Raipur-Rajnandgaon Goods	Goods	19:41	10:15	21:21	10:58	100	3	down
+15202	Jangir Champa-Dongargarh Goods	Goods	01:18	20:45	02:56	21:10	98	3	up
+84282	Jangir Champa-Balod Goods	Goods	08:51	22:30	09:36	22:37	45	3	down
+45972	Pendra Road-Korba Goods	Goods	04:14	01:30	05:49	02:09	95	1	up
+59421	Balod-Raipur Goods	Goods	16:38	07:45	18:11	07:49	93	2	down
+27434	Korba-Pendra Road Goods	Goods	22:12	13:15	22:32	13:19	20	1	up
+82786	Raigarh-Jangir Champa Goods	Goods	22:03	14:00	23:29	14:18	86	1	down
+45393	Ambikapur-Bilaspur Goods	Goods	06:22	00:00	06:33	00:01	11	1	down

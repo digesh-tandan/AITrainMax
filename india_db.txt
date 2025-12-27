@@ -1,0 +1,1001 @@
+train_id	train_name	train_type	zone	source	destination	distance_km	avg_speed_kmph	scheduled_departure	scheduled_arrival	actual_departure	actual_arrival	delay_minutes	weather_condition	track_number	status
+46808	Varanasi-Amritsar Vande Bharat	Vande Bharat	NR	Varanasi	Amritsar	1297	82.9	11:00	02:39	11:07	04:53	134	Clear	3	Delayed
+99362	Gaya-Dhanbad Vande Bharat	Vande Bharat	ECR	Gaya	Dhanbad	423	68.6	03:15	09:25	03:26	10:45	80	Fog	3	Delayed
+84322	Asansol-Sealdah Vande Bharat	Vande Bharat	ER	Asansol	Sealdah	1887	97.5	13:15	08:36	13:50	10:47	131	Fog	2	Delayed
+81316	Vijayawada-Guntur Vande Bharat	Vande Bharat	SCR	Vijayawada	Guntur	2597	535.5	14:45	19:36	15:08	21:06	90	Fog	1	Delayed
+18777	New Delhi-Lucknow Vande Bharat	Vande Bharat	NR	New Delhi	Lucknow	958	49.5	19:45	15:06	20:11	17:09	123	Heatwave	1	Delayed
+45665	New Delhi-Amritsar Vande Bharat	Vande Bharat	NR	New Delhi	Amritsar	298	31.9	21:15	06:36	21:24	07:42	66	Fog	3	Delayed
+79623	Ajmer-Bikaner Vande Bharat	Vande Bharat	NWR	Ajmer	Bikaner	2183	132.8	04:00	20:26	04:36	23:01	155	Rain	2	Delayed
+57384	Nagpur-Raipur Vande Bharat	Vande Bharat	SECR	Nagpur	Raipur	2389	126.5	03:15	22:08	04:13	00:39	151	Clear	3	Delayed
+67176	Asansol-Sealdah Vande Bharat	Vande Bharat	ER	Asansol	Sealdah	2055	445.1	09:30	14:07	09:32	16:22	135	Storm	2	Delayed
+30040	Raipur-Durg Vande Bharat	Vande Bharat	SECR	Raipur	Durg	785	145.4	08:15	13:39	09:31	16:28	169	Rain	3	Delayed
+90155	Madurai-Trivandrum Vande Bharat	Vande Bharat	SR	Madurai	Trivandrum	208	25.2	09:30	17:45	09:57	18:42	57	Clear	2	Delayed
+72372	Chennai-Madurai Vande Bharat	Vande Bharat	SR	Chennai	Madurai	571	44.7	09:30	22:16	09:33	22:52	36	Rain	3	Delayed
+16812	Varanasi-Lucknow Vande Bharat	Vande Bharat	NR	Varanasi	Lucknow	1842	80.6	17:00	15:52	17:45	18:23	151	Clear	1	Delayed
+17888	Jaipur-Ajmer Vande Bharat	Vande Bharat	NWR	Jaipur	Ajmer	2372	251.9	01:00	10:25	01:34	12:00	95	Heatwave	2	Delayed
+58754	Sealdah-Howrah Vande Bharat	Vande Bharat	ER	Sealdah	Howrah	1196	93.3	09:00	21:49	09:43	23:56	127	Heatwave	3	Delayed
+54472	Jabalpur-Bhopal Vande Bharat	Vande Bharat	WCR	Jabalpur	Bhopal	2530	229.7	12:45	23:46	13:12	00:49	63	Rain	2	Delayed
+93947	Muzaffarpur-Gaya Vande Bharat	Vande Bharat	ECR	Muzaffarpur	Gaya	1432	92.9	16:45	08:10	17:33	09:56	106	Rain	3	Delayed
+84907	Raipur-Nagpur Vande Bharat	Vande Bharat	SECR	Raipur	Nagpur	2641	730.2	03:00	06:37	03:16	07:22	45	Clear	1	Delayed
+90002	Lucknow-Amritsar Vande Bharat	Vande Bharat	NR	Lucknow	Amritsar	1139	55.2	20:15	16:53	20:41	19:09	136	Heatwave	3	Delayed
+78084	Jabalpur-Kota Vande Bharat	Vande Bharat	WCR	Jabalpur	Kota	1183	88.7	20:15	09:35	20:23	10:00	25	Clear	2	Delayed
+33003	Bhopal-Itarsi Rajdhani	Rajdhani	WCR	Bhopal	Itarsi	2531	378.7	16:45	23:26	17:48	01:51	145	Rain	2	Delayed
+56104	Hyderabad-Vijayawada Rajdhani	Rajdhani	SCR	Hyderabad	Vijayawada	1684	89.2	16:15	11:08	16:32	13:53	165	Heatwave	3	Delayed
+91519	Asansol-Howrah Rajdhani	Rajdhani	ER	Asansol	Howrah	2423	415.4	04:00	09:50	04:14	11:24	94	Rain	3	Delayed
+32228	Bhopal-Kota Rajdhani	Rajdhani	WCR	Bhopal	Kota	2742	132.3	04:45	01:29	04:46	03:54	145	Clear	1	Delayed
+48880	Asansol-Howrah Rajdhani	Rajdhani	ER	Asansol	Howrah	1046	101.9	08:00	18:16	08:18	20:11	115	Storm	1	Delayed
+27001	Varanasi-New Delhi Rajdhani	Rajdhani	NR	Varanasi	New Delhi	1899	254.3	20:15	03:43	20:26	05:18	95	Heatwave	1	Delayed
+46423	Jabalpur-Bhopal Rajdhani	Rajdhani	WCR	Jabalpur	Bhopal	1302	161.4	01:15	09:19	01:18	09:53	34	Storm	1	Delayed
+85847	Bilaspur-Raipur Rajdhani	Rajdhani	SECR	Bilaspur	Raipur	2288	181.6	14:30	03:06	14:35	03:29	23	Rain	3	Delayed
+32772	Patna-Howrah Rajdhani	Rajdhani	ER	Patna	Howrah	1017	60.8	02:15	18:58	02:23	19:15	17	Storm	1	Delayed
+55204	Bhopal-Itarsi Rajdhani	Rajdhani	WCR	Bhopal	Itarsi	177	11.9	22:45	13:41	22:50	14:33	52	Storm	1	Delayed
+94793	Jabalpur-Itarsi Rajdhani	Rajdhani	WCR	Jabalpur	Itarsi	774	305.5	00:45	03:17	01:48	06:02	165	Storm	1	Delayed
+24303	Allahabad-Bareilly Rajdhani	Rajdhani	NER	Allahabad	Bareilly	505	99	06:45	11:51	07:15	13:44	113	Heatwave	3	Delayed
+58200	Kanpur-Bareilly Rajdhani	Rajdhani	NER	Kanpur	Bareilly	2409	345.8	17:30	00:28	18:04	02:07	99	Storm	2	Delayed
+84870	Lucknow-Varanasi Rajdhani	Rajdhani	NR	Lucknow	Varanasi	604	58.5	01:45	12:05	02:21	13:17	72	Fog	3	Delayed
+81283	Madurai-Coimbatore Rajdhani	Rajdhani	SR	Madurai	Coimbatore	1458	103.4	02:45	16:51	02:56	19:47	176	Clear	2	Delayed
+95744	Coimbatore-Chennai Rajdhani	Rajdhani	SR	Coimbatore	Chennai	778	194.5	22:45	02:45	23:29	04:45	120	Fog	1	Delayed
+57783	Bareilly-Kanpur Rajdhani	Rajdhani	NER	Bareilly	Kanpur	501	39.2	09:15	22:02	09:53	23:37	95	Clear	3	Delayed
+63317	Secunderabad-Guntur Rajdhani	Rajdhani	SCR	Secunderabad	Guntur	1031	113.3	15:00	00:06	15:07	00:34	28	Heatwave	2	Delayed
+42894	Bilaspur-Raipur Rajdhani	Rajdhani	SECR	Bilaspur	Raipur	798	59.9	06:00	19:19	06:58	21:24	125	Rain	3	Delayed
+82566	Itarsi-Kota Rajdhani	Rajdhani	WCR	Itarsi	Kota	355	22.4	08:15	00:06	08:57	02:42	156	Heatwave	2	Delayed
+46820	Vadodara-Surat Shatabdi	Shatabdi	WR	Vadodara	Surat	2333	144.9	13:30	05:36	14:30	08:08	152	Storm	3	Delayed
+34476	Bilaspur-Raipur Shatabdi	Shatabdi	SECR	Bilaspur	Raipur	385	109.5	07:45	11:16	08:14	12:37	81	Heatwave	1	Delayed
+68507	Gaya-Dhanbad Shatabdi	Shatabdi	ECR	Gaya	Dhanbad	972	49.7	04:15	23:48	04:55	02:00	132	Fog	3	Delayed
+78148	Kota-Jabalpur Shatabdi	Shatabdi	WCR	Kota	Jabalpur	1387	109.8	23:45	12:23	23:48	15:15	172	Storm	1	Delayed
+37203	Patna-Muzaffarpur Shatabdi	Shatabdi	ECR	Patna	Muzaffarpur	2040	176.4	12:15	23:49	12:50	01:04	75	Clear	2	Delayed
+34091	Jabalpur-Bhopal Shatabdi	Shatabdi	WCR	Jabalpur	Bhopal	1876	252.4	11:00	18:26	11:47	20:24	118	Storm	3	Delayed
+37015	Bikaner-Ajmer Shatabdi	Shatabdi	NWR	Bikaner	Ajmer	1930	122.5	14:15	06:00	14:29	07:23	83	Rain	1	Delayed
+53534	Ajmer-Bikaner Shatabdi	Shatabdi	NWR	Ajmer	Bikaner	474	38.4	03:45	16:05	03:56	16:59	54	Fog	1	Delayed
+58020	Patna-Gaya Shatabdi	Shatabdi	ECR	Patna	Gaya	1837	149.6	20:15	08:32	20:15	08:41	9	Rain	2	On Time
+67673	Amritsar-New Delhi Shatabdi	Shatabdi	NR	Amritsar	New Delhi	961	538.9	22:30	00:17	22:45	02:46	149	Heatwave	2	Delayed
+98302	Asansol-Howrah Shatabdi	Shatabdi	ER	Asansol	Howrah	101	4.4	22:00	21:08	22:22	23:06	118	Rain	2	Delayed
+34653	New Delhi-Amritsar Shatabdi	Shatabdi	NR	New Delhi	Amritsar	522	36.2	17:30	07:55	18:07	10:36	161	Storm	1	Delayed
+44445	Coimbatore-Trivandrum Shatabdi	Shatabdi	SR	Coimbatore	Trivandrum	1865	100.4	19:00	13:35	19:03	13:51	16	Fog	2	Delayed
+85980	Allahabad-Bareilly Shatabdi	Shatabdi	NER	Allahabad	Bareilly	314	28.7	17:45	04:42	18:13	07:04	142	Heatwave	1	Delayed
+84376	Bikaner-Jaipur Shatabdi	Shatabdi	NWR	Bikaner	Jaipur	1652	106.7	04:45	20:14	05:17	22:40	146	Clear	1	Delayed
+68706	Gorakhpur-Bareilly Shatabdi	Shatabdi	NER	Gorakhpur	Bareilly	1019	67.3	04:00	19:09	04:46	21:51	162	Storm	3	Delayed
+57792	Hyderabad-Secunderabad Shatabdi	Shatabdi	SCR	Hyderabad	Secunderabad	753	98.4	15:15	22:54	15:41	00:15	81	Fog	1	Delayed
+94190	Allahabad-Kanpur Shatabdi	Shatabdi	NER	Allahabad	Kanpur	1150	72.1	03:30	19:27	03:39	22:04	157	Clear	3	Delayed
+75951	Dhanbad-Gaya Shatabdi	Shatabdi	ECR	Dhanbad	Gaya	1490	103.2	00:30	14:56	01:07	16:18	82	Heatwave	1	Delayed
+72427	Vadodara-Surat Shatabdi	Shatabdi	WR	Vadodara	Surat	1215	359.1	07:30	10:53	08:41	13:25	152	Clear	3	Delayed
+68733	Dhanbad-Gaya Shatabdi	Shatabdi	ECR	Dhanbad	Gaya	2602	251	23:30	09:52	00:28	12:04	132	Heatwave	3	Delayed
+65048	Vijayawada-Guntur Shatabdi	Shatabdi	SCR	Vijayawada	Guntur	2222	297.6	00:45	08:13	00:53	11:12	179	Rain	3	Delayed
+67537	Nagpur-Bilaspur Shatabdi	Shatabdi	SECR	Nagpur	Bilaspur	2773	241.5	06:00	17:29	06:07	18:14	45	Heatwave	1	Delayed
+62739	Allahabad-Bareilly Shatabdi	Shatabdi	NER	Allahabad	Bareilly	533	39.4	04:45	18:16	05:00	20:29	133	Heatwave	1	Delayed
+27566	Madurai-Chennai Shatabdi	Shatabdi	SR	Madurai	Chennai	1626	102.9	04:45	20:33	04:49	21:32	59	Storm	1	Delayed
+48902	Nagpur-Durg Shatabdi	Shatabdi	SECR	Nagpur	Durg	273	25.7	11:00	21:38	12:09	23:59	141	Clear	1	Delayed
+31922	Jabalpur-Itarsi Shatabdi	Shatabdi	WCR	Jabalpur	Itarsi	573	126.4	04:15	08:47	05:16	10:58	131	Clear	3	Delayed
+83525	Mumbai Central-Vadodara Shatabdi	Shatabdi	WR	Mumbai Central	Vadodara	2645	269	10:00	19:50	10:28	20:52	62	Clear	2	Delayed
+94627	Jabalpur-Bhopal Shatabdi	Shatabdi	WCR	Jabalpur	Bhopal	715	44.3	13:00	05:08	13:30	07:04	116	Fog	3	Delayed
+61655	Madurai-Trivandrum Shatabdi	Shatabdi	SR	Madurai	Trivandrum	1123	69.5	22:45	14:55	23:35	17:27	152	Rain	2	Delayed
+11644	Muzaffarpur-Gaya Shatabdi	Shatabdi	ECR	Muzaffarpur	Gaya	583	37.2	16:45	08:26	16:47	08:31	5	Storm	1	On Time
+23551	Kota-Itarsi Shatabdi	Shatabdi	WCR	Kota	Itarsi	2672	175.4	00:00	15:14	00:55	18:05	171	Heatwave	3	Delayed
+61887	Allahabad-Gorakhpur Shatabdi	Shatabdi	NER	Allahabad	Gorakhpur	1237	116.3	21:30	08:08	21:33	08:34	26	Heatwave	2	Delayed
+26078	Vijayawada-Guntur Shatabdi	Shatabdi	SCR	Vijayawada	Guntur	2261	201	05:15	16:30	05:21	19:01	151	Rain	2	Delayed
+38404	Kanpur-Allahabad Shatabdi	Shatabdi	NER	Kanpur	Allahabad	2527	174.5	23:00	13:29	00:12	16:10	161	Heatwave	2	Delayed
+84035	Secunderabad-Hyderabad Shatabdi	Shatabdi	SCR	Secunderabad	Hyderabad	179	11.9	12:00	03:03	12:50	05:26	143	Storm	1	Delayed
+85339	Bilaspur-Durg Shatabdi	Shatabdi	SECR	Bilaspur	Durg	530	48.8	22:00	08:52	22:26	11:37	165	Rain	1	Delayed
+49178	Bhopal-Jabalpur Shatabdi	Shatabdi	WCR	Bhopal	Jabalpur	1924	1803.8	19:00	20:04	19:10	21:31	87	Storm	1	Delayed
+66510	Secunderabad-Hyderabad Shatabdi	Shatabdi	SCR	Secunderabad	Hyderabad	1714	153.5	22:00	09:10	22:10	09:33	23	Heatwave	3	Delayed
+24930	Muzaffarpur-Dhanbad Shatabdi	Shatabdi	ECR	Muzaffarpur	Dhanbad	2671	175.7	01:00	16:12	01:35	17:50	98	Storm	2	Delayed
+79099	Jodhpur-Ajmer Jan Shatabdi	Jan Shatabdi	NWR	Jodhpur	Ajmer	1344	94.8	23:30	13:41	00:34	16:09	148	Rain	3	Delayed
+97562	New Delhi-Amritsar Jan Shatabdi	Jan Shatabdi	NR	New Delhi	Amritsar	1532	321.4	21:45	02:31	22:07	04:51	140	Storm	1	Delayed
+48855	Bareilly-Allahabad Jan Shatabdi	Jan Shatabdi	NER	Bareilly	Allahabad	570	26.5	19:00	16:33	19:12	17:39	66	Rain	1	Delayed
+73938	Sealdah-Asansol Jan Shatabdi	Jan Shatabdi	ER	Sealdah	Asansol	813	72.5	23:45	10:58	00:31	12:55	117	Rain	1	Delayed
+66327	Trivandrum-Madurai Jan Shatabdi	Jan Shatabdi	SR	Trivandrum	Madurai	243	11.4	02:30	23:46	02:59	01:19	93	Clear	2	Delayed
+67317	Ahmedabad-Mumbai Central Jan Shatabdi	Jan Shatabdi	WR	Ahmedabad	Mumbai Central	2408	244.5	02:15	12:06	02:17	12:14	8	Heatwave	1	On Time
+15652	Chennai-Coimbatore Jan Shatabdi	Jan Shatabdi	SR	Chennai	Coimbatore	1515	1420.3	12:15	13:19	12:32	13:58	39	Rain	2	Delayed
+75912	Durg-Bilaspur Jan Shatabdi	Jan Shatabdi	SECR	Durg	Bilaspur	1298	236.7	07:00	12:29	07:47	14:44	135	Fog	1	Delayed
+19995	Varanasi-Amritsar Jan Shatabdi	Jan Shatabdi	NR	Varanasi	Amritsar	189	19.4	12:15	22:01	13:07	00:05	124	Clear	2	Delayed
+28578	Kota-Itarsi Jan Shatabdi	Jan Shatabdi	WCR	Kota	Itarsi	899	39.1	17:00	15:58	17:14	16:49	51	Clear	1	Delayed
+89543	Bhopal-Kota Jan Shatabdi	Jan Shatabdi	WCR	Bhopal	Kota	1277	139.3	09:15	18:25	09:27	19:22	57	Clear	3	Delayed
+42484	Mumbai Central-Ahmedabad Jan Shatabdi	Jan Shatabdi	WR	Mumbai Central	Ahmedabad	196	13.1	19:15	10:14	19:18	11:58	104	Storm	2	Delayed
+42283	Sealdah-Asansol Jan Shatabdi	Jan Shatabdi	ER	Sealdah	Asansol	204	12.9	08:45	00:35	08:46	00:40	5	Fog	3	On Time
+95551	Sealdah-Asansol Jan Shatabdi	Jan Shatabdi	ER	Sealdah	Asansol	761	36.7	07:15	03:58	07:31	04:37	39	Rain	3	Delayed
+61783	Jaipur-Bikaner Jan Shatabdi	Jan Shatabdi	NWR	Jaipur	Bikaner	934	69	02:45	16:17	03:03	17:22	65	Heatwave	1	Delayed
+45166	Coimbatore-Madurai Jan Shatabdi	Jan Shatabdi	SR	Coimbatore	Madurai	496	29.4	11:45	04:36	12:03	06:42	126	Rain	1	Delayed
+44910	Asansol-Sealdah Jan Shatabdi	Jan Shatabdi	ER	Asansol	Sealdah	2009	130.2	16:30	07:56	16:49	09:24	88	Storm	2	Delayed
+93986	Guntur-Vijayawada Jan Shatabdi	Jan Shatabdi	SCR	Guntur	Vijayawada	2048	215.6	03:30	13:00	03:58	15:45	165	Heatwave	2	Delayed
+30025	Vadodara-Surat Jan Shatabdi	Jan Shatabdi	WR	Vadodara	Surat	1566	185.7	16:45	01:11	17:11	04:07	176	Heatwave	2	Delayed
+50636	Varanasi-Amritsar Jan Shatabdi	Jan Shatabdi	NR	Varanasi	Amritsar	2292	291.4	03:45	11:37	03:51	14:04	147	Rain	1	Delayed
+47014	Bikaner-Jaipur Jan Shatabdi	Jan Shatabdi	NWR	Bikaner	Jaipur	1646	113.8	09:45	00:13	09:51	01:31	78	Storm	2	Delayed
+84271	Patna-Howrah Jan Shatabdi	Jan Shatabdi	ER	Patna	Howrah	861	44	21:30	17:03	21:44	18:02	59	Storm	3	Delayed
+58811	Ajmer-Jaipur Jan Shatabdi	Jan Shatabdi	NWR	Ajmer	Jaipur	564	48.1	00:00	11:44	00:00	11:59	15	Fog	3	On Time
+19419	Madurai-Chennai Jan Shatabdi	Jan Shatabdi	SR	Madurai	Chennai	851	455.9	21:00	22:52	21:02	00:25	93	Clear	3	Delayed
+39162	Madurai-Coimbatore Jan Shatabdi	Jan Shatabdi	SR	Madurai	Coimbatore	766	32.3	14:30	14:13	14:43	15:56	103	Rain	3	Delayed
+94462	Sealdah-Howrah Jan Shatabdi	Jan Shatabdi	ER	Sealdah	Howrah	1964	158.6	03:15	15:38	03:50	17:06	88	Clear	1	Delayed
+37969	Madurai-Coimbatore Jan Shatabdi	Jan Shatabdi	SR	Madurai	Coimbatore	1677	254.7	23:15	05:50	23:19	06:22	32	Heatwave	1	Delayed
+10209	Gorakhpur-Kanpur Jan Shatabdi	Jan Shatabdi	NER	Gorakhpur	Kanpur	133	6.3	20:30	17:38	20:57	18:32	54	Storm	1	Delayed
+44542	Bilaspur-Raipur Jan Shatabdi	Jan Shatabdi	SECR	Bilaspur	Raipur	1967	98	17:00	13:04	17:54	15:14	130	Fog	3	Delayed
+90969	Nagpur-Durg Jan Shatabdi	Jan Shatabdi	SECR	Nagpur	Durg	399	181.4	20:30	22:42	20:35	23:37	55	Heatwave	2	Delayed
+52583	Gorakhpur-Kanpur Jan Shatabdi	Jan Shatabdi	NER	Gorakhpur	Kanpur	1654	194.6	04:15	12:45	04:27	14:48	123	Storm	3	Delayed
+36682	Nagpur-Bilaspur Jan Shatabdi	Jan Shatabdi	SECR	Nagpur	Bilaspur	1978	201.5	05:30	15:19	06:03	17:49	150	Fog	3	Delayed
+62464	Trivandrum-Madurai Jan Shatabdi	Jan Shatabdi	SR	Trivandrum	Madurai	2312	196.5	06:15	18:01	06:32	20:27	146	Storm	3	Delayed
+63068	Sealdah-Patna Jan Shatabdi	Jan Shatabdi	ER	Sealdah	Patna	2130	242.5	15:45	00:32	16:03	03:09	157	Fog	2	Delayed
+66755	Asansol-Howrah Jan Shatabdi	Jan Shatabdi	ER	Asansol	Howrah	1202	208.4	11:30	17:16	12:25	19:06	110	Storm	1	Delayed
+72449	Hyderabad-Guntur Jan Shatabdi	Jan Shatabdi	SCR	Hyderabad	Guntur	2444	539.1	18:30	23:02	18:32	23:41	39	Fog	2	Delayed
+98638	Coimbatore-Madurai Jan Shatabdi	Jan Shatabdi	SR	Coimbatore	Madurai	558	35.8	16:45	08:21	16:47	09:35	74	Rain	3	Delayed
+71084	Jaipur-Bikaner Jan Shatabdi	Jan Shatabdi	NWR	Jaipur	Bikaner	211	16.1	18:00	07:06	18:32	09:16	130	Heatwave	2	Delayed
+95309	Jaipur-Jodhpur Jan Shatabdi	Jan Shatabdi	NWR	Jaipur	Jodhpur	1070	74.5	21:15	11:37	21:15	14:22	165	Fog	3	Delayed
+66356	Dhanbad-Patna Jan Shatabdi	Jan Shatabdi	ECR	Dhanbad	Patna	1724	104.8	04:15	20:42	04:19	21:00	18	Rain	1	Delayed
+63836	Jaipur-Bikaner Garib Rath	Garib Rath	NWR	Jaipur	Bikaner	910	72.8	17:45	06:15	18:05	08:35	140	Fog	3	Delayed
+47441	New Delhi-Varanasi Garib Rath	Garib Rath	NR	New Delhi	Varanasi	2555	220.9	15:45	03:19	16:16	04:42	83	Clear	3	Delayed
+49510	Guntur-Hyderabad Garib Rath	Garib Rath	SCR	Guntur	Hyderabad	699	74.2	19:00	04:25	19:18	05:02	37	Heatwave	1	Delayed
+59664	Sealdah-Patna Garib Rath	Garib Rath	ER	Sealdah	Patna	2759	762.9	12:45	16:22	13:18	18:50	148	Fog	1	Delayed
+50824	Jabalpur-Kota Garib Rath	Garib Rath	WCR	Jabalpur	Kota	621	414	00:30	02:00	01:13	04:09	129	Heatwave	1	Delayed
+12555	Bikaner-Ajmer Garib Rath	Garib Rath	NWR	Bikaner	Ajmer	784	210	06:30	10:14	07:09	12:29	135	Clear	2	Delayed
+28728	Bareilly-Kanpur Garib Rath	Garib Rath	NER	Bareilly	Kanpur	349	51.2	13:15	20:04	13:41	22:25	141	Storm	2	Delayed
+78878	Gaya-Muzaffarpur Garib Rath	Garib Rath	ECR	Gaya	Muzaffarpur	433	169.8	17:00	19:33	17:21	21:16	103	Clear	3	Delayed
+52116	Sealdah-Asansol Garib Rath	Garib Rath	ER	Sealdah	Asansol	487	31.3	21:15	12:48	22:04	14:28	100	Storm	1	Delayed
+24546	Lucknow-New Delhi Garib Rath	Garib Rath	NR	Lucknow	New Delhi	1170	85.6	17:00	06:40	17:00	06:48	8	Rain	3	On Time
+99701	Coimbatore-Chennai Garib Rath	Garib Rath	SR	Coimbatore	Chennai	2336	137.3	12:00	05:01	12:06	05:55	54	Rain	1	Delayed
+77421	Nagpur-Durg Garib Rath	Garib Rath	SECR	Nagpur	Durg	2388	474.4	11:30	16:32	11:59	17:50	78	Rain	1	Delayed
+16389	Hyderabad-Guntur Garib Rath	Garib Rath	SCR	Hyderabad	Guntur	1897	107	10:00	03:44	10:16	05:49	125	Storm	3	Delayed
+66030	Varanasi-Lucknow Garib Rath	Garib Rath	NR	Varanasi	Lucknow	2222	1033.5	13:15	15:24	13:21	17:51	147	Storm	1	Delayed
+29009	Hyderabad-Secunderabad Garib Rath	Garib Rath	SCR	Hyderabad	Secunderabad	1661	164.7	20:45	06:50	20:53	07:15	25	Heatwave	2	Delayed
+95426	Howrah-Patna Garib Rath	Garib Rath	ER	Howrah	Patna	2409	3075.3	04:00	04:47	04:12	05:54	67	Storm	1	Delayed
+89381	Kanpur-Gorakhpur Garib Rath	Garib Rath	NER	Kanpur	Gorakhpur	2479	2438.4	03:45	04:46	04:01	05:53	67	Storm	2	Delayed
+74689	Durg-Raipur Garib Rath	Garib Rath	SECR	Durg	Raipur	413	53.6	01:45	09:27	02:06	10:22	55	Rain	1	Delayed
+58116	Asansol-Sealdah Garib Rath	Garib Rath	ER	Asansol	Sealdah	1715	169.5	22:15	08:22	23:26	10:47	145	Heatwave	2	Delayed
+53761	Jaipur-Bikaner Garib Rath	Garib Rath	NWR	Jaipur	Bikaner	1290	157.6	13:30	21:41	13:52	23:23	102	Rain	3	Delayed
+27910	Amritsar-New Delhi Mail	Mail	NR	Amritsar	New Delhi	2282	148.3	22:15	13:38	22:31	15:14	96	Heatwave	2	Delayed
+32128	Mumbai Central-Ahmedabad Mail	Mail	WR	Mumbai Central	Ahmedabad	849	110.3	14:45	22:27	15:04	23:48	81	Heatwave	1	Delayed
+50049	Kanpur-Bareilly Mail	Mail	NER	Kanpur	Bareilly	947	42.4	08:45	07:06	08:50	07:18	12	Heatwave	1	On Time
+31566	Vijayawada-Hyderabad Mail	Mail	SCR	Vijayawada	Hyderabad	376	43.1	04:30	13:14	05:00	15:46	152	Storm	2	Delayed
+19473	Kanpur-Gorakhpur Mail	Mail	NER	Kanpur	Gorakhpur	1191	306.7	12:15	16:08	13:04	18:16	128	Clear	3	Delayed
+76874	Raipur-Bilaspur Mail	Mail	SECR	Raipur	Bilaspur	1409	164.8	11:00	19:33	11:19	20:39	66	Rain	1	Delayed
+64898	Muzaffarpur-Dhanbad Mail	Mail	ECR	Muzaffarpur	Dhanbad	2269	444.9	01:15	06:21	01:33	07:19	58	Clear	2	Delayed
+76092	Jodhpur-Jaipur Mail	Mail	NWR	Jodhpur	Jaipur	1451	275.5	16:30	21:46	16:55	00:08	142	Storm	1	Delayed
+36746	Ahmedabad-Mumbai Central Mail	Mail	WR	Ahmedabad	Mumbai Central	1887	278.2	08:15	15:02	08:46	16:43	101	Heatwave	1	Delayed
+60264	Surat-Ahmedabad Mail	Mail	WR	Surat	Ahmedabad	2642	164.1	12:30	04:36	12:33	04:44	8	Heatwave	3	On Time
+25456	Raipur-Bilaspur Mail	Mail	SECR	Raipur	Bilaspur	1043	125.2	11:00	19:20	11:55	22:08	168	Rain	3	Delayed
+96428	Vadodara-Mumbai Central Mail	Mail	WR	Vadodara	Mumbai Central	503	29.2	18:30	11:42	18:38	13:20	98	Fog	1	Delayed
+48322	Mumbai Central-Ahmedabad Mail	Mail	WR	Mumbai Central	Ahmedabad	1628	179.6	23:45	08:49	23:56	09:58	69	Fog	2	Delayed
+75821	Varanasi-Amritsar Mail	Mail	NR	Varanasi	Amritsar	1708	93.2	13:15	07:34	13:18	08:15	41	Heatwave	2	Delayed
+95860	Ajmer-Jodhpur Mail	Mail	NWR	Ajmer	Jodhpur	361	21.1	13:00	06:06	14:23	09:03	177	Rain	2	Delayed
+65843	Gaya-Dhanbad Mail	Mail	ECR	Gaya	Dhanbad	1119	111.2	06:15	16:19	06:19	16:28	9	Rain	2	On Time
+51325	Ajmer-Jodhpur Mail	Mail	NWR	Ajmer	Jodhpur	2636	1075.9	23:15	01:42	00:10	03:48	126	Fog	3	Delayed
+90016	Allahabad-Bareilly Mail	Mail	NER	Allahabad	Bareilly	1628	345.2	03:15	07:58	03:16	08:16	18	Clear	3	Delayed
+15854	Muzaffarpur-Gaya Mail	Mail	ECR	Muzaffarpur	Gaya	2199	146.1	11:15	02:18	11:58	04:37	139	Clear	1	Delayed
+71246	Nagpur-Durg Mail	Mail	SECR	Nagpur	Durg	1322	237.5	01:00	06:34	01:28	08:15	101	Storm	2	Delayed
+57029	Vadodara-Ahmedabad Mail	Mail	WR	Vadodara	Ahmedabad	2516	393.1	13:15	19:39	13:53	21:46	127	Storm	1	Delayed
+28780	Surat-Ahmedabad Mail	Mail	WR	Surat	Ahmedabad	651	56	23:00	10:38	23:09	10:56	18	Rain	3	Delayed
+43038	Patna-Dhanbad Mail	Mail	ECR	Patna	Dhanbad	1245	227.7	21:15	02:43	21:17	03:00	17	Clear	1	Delayed
+34688	Hyderabad-Secunderabad Mail	Mail	SCR	Hyderabad	Secunderabad	1649	81.6	14:15	10:28	15:30	13:13	165	Heatwave	1	Delayed
+14447	Ahmedabad-Surat Mail	Mail	WR	Ahmedabad	Surat	1830	203.7	06:15	15:14	06:30	15:56	42	Storm	1	Delayed
+45039	Howrah-Patna Mail	Mail	ER	Howrah	Patna	999	92.5	07:30	18:18	07:34	18:49	31	Clear	2	Delayed
+63101	Ahmedabad-Vadodara Mail	Mail	WR	Ahmedabad	Vadodara	1987	110.9	11:30	05:25	11:40	08:11	166	Fog	3	Delayed
+21395	Patna-Dhanbad Mail	Mail	ECR	Patna	Dhanbad	99	21.6	20:15	00:50	20:57	02:42	112	Clear	3	Delayed
+52656	Trivandrum-Chennai Mail	Mail	SR	Trivandrum	Chennai	1032	115.3	20:00	04:57	20:03	05:12	15	Rain	1	On Time
+65362	Gorakhpur-Kanpur Mail	Mail	NER	Gorakhpur	Kanpur	601	371.8	17:15	18:52	17:15	20:00	68	Heatwave	2	Delayed
+55189	Howrah-Patna Mail	Mail	ER	Howrah	Patna	531	155.4	04:00	07:25	04:20	08:08	43	Fog	2	Delayed
+91899	Vijayawada-Secunderabad Mail	Mail	SCR	Vijayawada	Secunderabad	1698	118.6	07:15	21:34	07:22	21:50	16	Rain	2	Delayed
+94433	Bilaspur-Nagpur Mail	Mail	SECR	Bilaspur	Nagpur	275	15.2	05:45	23:50	06:06	02:31	161	Clear	3	Delayed
+57948	Patna-Dhanbad Mail	Mail	ECR	Patna	Dhanbad	1915	97.5	18:45	14:24	19:28	15:50	86	Rain	2	Delayed
+92023	Ajmer-Bikaner Mail	Mail	NWR	Ajmer	Bikaner	70	29.8	14:45	17:06	14:54	18:08	62	Clear	1	Delayed
+32689	Muzaffarpur-Gaya Mail	Mail	ECR	Muzaffarpur	Gaya	2196	93.8	04:30	03:55	04:32	04:35	40	Fog	2	Delayed
+17693	Bikaner-Ajmer Mail	Mail	NWR	Bikaner	Ajmer	2780	312.9	03:15	12:08	03:19	12:51	43	Clear	1	Delayed
+99886	Jaipur-Bikaner Mail	Mail	NWR	Jaipur	Bikaner	1526	195.2	00:30	08:19	00:30	08:43	24	Fog	3	Delayed
+32938	Ahmedabad-Mumbai Central Mail	Mail	WR	Ahmedabad	Mumbai Central	1585	136.4	08:15	19:52	08:53	21:17	85	Heatwave	2	Delayed
+78844	Durg-Bilaspur Mail	Mail	SECR	Durg	Bilaspur	847	48.6	11:15	04:41	11:19	07:33	172	Heatwave	3	Delayed
+50714	Durg-Nagpur Mail	Mail	SECR	Durg	Nagpur	533	95.2	16:45	22:21	16:45	23:14	53	Heatwave	3	Delayed
+61906	Chennai-Coimbatore Mail	Mail	SR	Chennai	Coimbatore	812	103.4	10:00	17:51	10:01	18:23	32	Storm	1	Delayed
+56683	Itarsi-Bhopal Mail	Mail	WCR	Itarsi	Bhopal	1758	490.6	20:00	23:35	20:00	23:48	13	Storm	1	On Time
+69080	Nagpur-Durg Mail	Mail	SECR	Nagpur	Durg	1068	161	19:45	02:23	19:51	02:51	28	Clear	3	Delayed
+68024	New Delhi-Varanasi Mail	Mail	NR	New Delhi	Varanasi	1348	66.1	05:15	01:38	05:26	04:34	176	Rain	2	Delayed
+91972	Kota-Jabalpur Mail	Mail	WCR	Kota	Jabalpur	2722	462.7	19:45	01:38	19:56	04:15	157	Rain	2	Delayed
+48644	Guntur-Vijayawada Mail	Mail	SCR	Guntur	Vijayawada	2189	298.5	07:00	14:20	07:23	16:46	146	Storm	1	Delayed
+35830	New Delhi-Varanasi Mail	Mail	NR	New Delhi	Varanasi	2709	725.6	19:30	23:14	20:47	02:04	170	Fog	2	Delayed
+57431	Ahmedabad-Vadodara Mail	Mail	WR	Ahmedabad	Vadodara	913	38.6	17:30	17:09	17:43	19:35	146	Fog	1	Delayed
+26672	Gorakhpur-Allahabad Mail	Mail	NER	Gorakhpur	Allahabad	2247	593.9	07:15	11:02	07:39	13:50	168	Heatwave	2	Delayed
+67394	Hyderabad-Vijayawada Mail	Mail	SCR	Hyderabad	Vijayawada	1075	65.2	03:30	20:00	03:44	21:30	90	Storm	3	Delayed
+10182	New Delhi-Lucknow Mail	Mail	NR	New Delhi	Lucknow	1322	75.6	02:45	20:14	02:58	20:54	40	Rain	1	Delayed
+99320	Mumbai Central-Surat Mail	Mail	WR	Mumbai Central	Surat	2307	154.1	07:30	22:28	07:38	22:46	18	Fog	3	Delayed
+68502	Nagpur-Durg Mail	Mail	SECR	Nagpur	Durg	570	35	04:45	21:02	04:51	23:53	171	Heatwave	2	Delayed
+79208	Mumbai Central-Vadodara Mail	Mail	WR	Mumbai Central	Vadodara	1585	70.3	06:00	04:33	07:20	07:18	165	Clear	3	Delayed
+50721	New Delhi-Lucknow Mail	Mail	NR	New Delhi	Lucknow	1180	575.6	04:15	06:18	04:27	06:48	30	Rain	1	Delayed
+73551	Bilaspur-Durg Mail	Mail	SECR	Bilaspur	Durg	386	186.8	23:45	01:49	00:27	04:05	136	Storm	2	Delayed
+37983	Muzaffarpur-Patna Mail	Mail	ECR	Muzaffarpur	Patna	1483	84.4	13:00	06:34	13:13	08:10	96	Rain	3	Delayed
+70433	Amritsar-New Delhi Mail	Mail	NR	Amritsar	New Delhi	407	50.2	23:15	07:21	23:18	07:45	24	Clear	3	Delayed
+16389	Howrah-Patna Mail	Mail	ER	Howrah	Patna	742	44.9	20:45	13:17	21:19	15:53	156	Clear	1	Delayed
+27361	Hyderabad-Secunderabad Mail	Mail	SCR	Hyderabad	Secunderabad	1427	124.4	03:00	14:28	03:12	16:27	119	Heatwave	1	Delayed
+22159	Patna-Muzaffarpur Mail	Mail	ECR	Patna	Muzaffarpur	2423	389.8	04:15	10:28	04:22	10:53	25	Heatwave	1	Delayed
+45659	Chennai-Madurai Mail	Mail	SR	Chennai	Madurai	2169	134.6	06:45	22:52	06:46	22:58	6	Storm	1	On Time
+28680	Patna-Dhanbad Mail	Mail	ECR	Patna	Dhanbad	2260	100.3	11:30	10:02	12:08	12:14	132	Heatwave	1	Delayed
+30986	Gorakhpur-Allahabad Mail	Mail	NER	Gorakhpur	Allahabad	1804	105.5	17:15	10:21	17:30	10:51	30	Heatwave	1	Delayed
+16167	Durg-Raipur Mail	Mail	SECR	Durg	Raipur	1267	69.4	22:00	16:16	22:04	18:00	104	Rain	1	Delayed
+15758	Jaipur-Jodhpur Mail	Mail	NWR	Jaipur	Jodhpur	1710	80.1	04:15	01:36	04:30	02:51	75	Rain	3	Delayed
+46787	Bikaner-Jodhpur Mail	Mail	NWR	Bikaner	Jodhpur	1664	199.3	01:30	09:51	01:42	10:26	35	Storm	3	Delayed
+34434	Ajmer-Bikaner Mail	Mail	NWR	Ajmer	Bikaner	1878	122.7	00:30	15:48	00:31	15:53	5	Fog	1	On Time
+62243	Vijayawada-Guntur Mail	Mail	SCR	Vijayawada	Guntur	1334	860.6	12:30	14:03	13:13	16:24	141	Fog	2	Delayed
+46704	Jaipur-Jodhpur Mail	Mail	NWR	Jaipur	Jodhpur	2727	385	07:45	14:50	08:05	16:47	117	Fog	1	Delayed
+50104	Bareilly-Gorakhpur Mail	Mail	NER	Bareilly	Gorakhpur	1588	146.4	11:45	22:36	12:00	23:40	64	Clear	2	Delayed
+37780	Patna-Dhanbad Mail	Mail	ECR	Patna	Dhanbad	194	12.3	07:45	23:28	07:56	01:58	150	Heatwave	2	Delayed
+97162	Amritsar-Varanasi Mail	Mail	NR	Amritsar	Varanasi	2539	588.2	02:00	06:19	02:42	07:43	84	Clear	1	Delayed
+15920	Jabalpur-Kota Mail	Mail	WCR	Jabalpur	Kota	2225	120.2	22:15	16:46	22:15	17:02	16	Fog	1	Delayed
+38231	Gorakhpur-Allahabad Mail	Mail	NER	Gorakhpur	Allahabad	517	98.2	21:00	02:16	21:31	04:01	105	Storm	1	Delayed
+55973	Hyderabad-Vijayawada Mail	Mail	SCR	Hyderabad	Vijayawada	230	18.9	16:00	04:11	16:06	06:00	109	Rain	3	Delayed
+90545	Jabalpur-Itarsi Mail	Mail	WCR	Jabalpur	Itarsi	2230	101.6	02:45	00:42	02:49	01:28	46	Storm	3	Delayed
+78241	Allahabad-Bareilly Mail	Mail	NER	Allahabad	Bareilly	1656	78.3	06:45	03:54	07:10	05:16	82	Heatwave	1	Delayed
+55073	Vijayawada-Secunderabad Mail	Mail	SCR	Vijayawada	Secunderabad	2576	311.6	13:45	22:01	14:17	23:46	105	Storm	3	Delayed
+95333	Kanpur-Allahabad Mail	Mail	NER	Kanpur	Allahabad	2399	163.4	17:45	08:26	17:55	08:57	31	Rain	2	Delayed
+70381	Raipur-Durg Mail	Mail	SECR	Raipur	Durg	1363	181.7	19:15	02:45	19:35	05:42	177	Clear	1	Delayed
+29252	Ahmedabad-Vadodara Mail	Mail	WR	Ahmedabad	Vadodara	2078	227.5	10:30	19:38	10:34	19:58	20	Storm	3	Delayed
+20663	Vadodara-Mumbai Central Mail	Mail	WR	Vadodara	Mumbai Central	50	5.3	11:30	21:00	11:40	21:24	24	Clear	2	Delayed
+97700	Guntur-Secunderabad Mail	Mail	SCR	Guntur	Secunderabad	1326	110.7	23:15	11:14	23:38	12:20	66	Rain	3	Delayed
+52978	Guntur-Secunderabad Mail	Mail	SCR	Guntur	Secunderabad	173	22.3	20:00	03:46	20:41	05:25	99	Storm	1	Delayed
+40957	Kota-Itarsi Mail	Mail	WCR	Kota	Itarsi	1655	280.5	16:45	22:39	16:49	22:49	10	Heatwave	3	On Time
+77690	Coimbatore-Trivandrum Mail	Mail	SR	Coimbatore	Trivandrum	513	56.2	07:45	16:53	07:50	18:25	92	Heatwave	3	Delayed
+64841	Surat-Ahmedabad Mail	Mail	WR	Surat	Ahmedabad	2252	283.3	09:00	16:57	09:06	17:55	58	Heatwave	2	Delayed
+10693	Muzaffarpur-Patna Mail	Mail	ECR	Muzaffarpur	Patna	1807	87.4	04:45	01:25	05:53	04:18	173	Clear	2	Delayed
+66555	Guntur-Secunderabad Mail	Mail	SCR	Guntur	Secunderabad	1125	87.2	21:00	09:54	21:07	10:28	34	Storm	2	Delayed
+89898	Gorakhpur-Kanpur Mail	Mail	NER	Gorakhpur	Kanpur	1393	417.9	09:15	12:35	09:54	14:44	129	Fog	3	Delayed
+12929	Howrah-Sealdah Mail	Mail	ER	Howrah	Sealdah	2497	404.9	22:15	04:25	22:41	06:34	129	Storm	3	Delayed
+41719	Patna-Asansol Mail	Mail	ER	Patna	Asansol	211	44.9	07:00	11:42	08:09	14:30	168	Clear	3	Delayed
+75214	Bareilly-Kanpur Mail	Mail	NER	Bareilly	Kanpur	925	194.1	08:30	13:16	09:15	15:03	107	Heatwave	3	Delayed
+28652	Kota-Itarsi Mail	Mail	WCR	Kota	Itarsi	885	55.4	05:15	21:13	05:37	22:17	64	Storm	3	Delayed
+58402	Dhanbad-Muzaffarpur Mail	Mail	ECR	Dhanbad	Muzaffarpur	2400	270.2	17:45	02:38	17:50	02:48	10	Storm	3	On Time
+26907	Coimbatore-Chennai Mail	Mail	SR	Coimbatore	Chennai	1048	195.9	00:30	05:51	00:38	07:27	96	Storm	3	Delayed
+45908	Surat-Ahmedabad Mail	Mail	WR	Surat	Ahmedabad	2030	188	22:45	09:33	23:28	11:06	93	Rain	1	Delayed
+23833	Asansol-Howrah Mail	Mail	ER	Asansol	Howrah	387	23.2	10:15	02:58	10:34	04:59	121	Storm	2	Delayed
+18150	Ajmer-Bikaner Mail	Mail	NWR	Ajmer	Bikaner	2624	572.5	14:00	18:35	14:03	19:40	65	Clear	1	Delayed
+46320	Hyderabad-Secunderabad Mail	Mail	SCR	Hyderabad	Secunderabad	1865	103.5	21:00	15:01	22:06	17:27	146	Storm	3	Delayed
+79638	Amritsar-Varanasi Mail	Mail	NR	Amritsar	Varanasi	1278	497.9	17:15	19:49	17:38	20:39	50	Rain	3	Delayed
+42690	Jaipur-Jodhpur Mail	Mail	NWR	Jaipur	Jodhpur	693	66.4	08:45	19:11	09:33	22:06	175	Storm	1	Delayed
+15478	Ajmer-Bikaner Mail	Mail	NWR	Ajmer	Bikaner	2749	212.8	14:30	03:25	14:38	03:44	19	Storm	1	Delayed
+71986	Jaipur-Bikaner Mail	Mail	NWR	Jaipur	Bikaner	2613	255.8	16:15	02:28	17:03	04:50	142	Heatwave	2	Delayed
+62728	Surat-Ahmedabad Mail	Mail	WR	Surat	Ahmedabad	949	296.6	02:15	05:27	02:42	08:21	174	Heatwave	3	Delayed
+45930	Lucknow-Amritsar Mail	Mail	NR	Lucknow	Amritsar	2752	229.7	11:45	23:44	11:59	02:24	160	Storm	1	Delayed
+24273	New Delhi-Lucknow Mail	Mail	NR	New Delhi	Lucknow	2687	245.8	03:30	14:26	03:37	15:35	69	Storm	3	Delayed
+47119	New Delhi-Amritsar Mail	Mail	NR	New Delhi	Amritsar	1415	5306.2	17:00	17:16	18:10	19:43	147	Rain	2	Delayed
+68198	Muzaffarpur-Patna Mail	Mail	ECR	Muzaffarpur	Patna	1404	183.1	19:15	02:55	19:23	04:24	89	Clear	3	Delayed
+23283	Hyderabad-Secunderabad Mail	Mail	SCR	Hyderabad	Secunderabad	1495	90.3	14:30	07:03	14:52	08:08	65	Rain	1	Delayed
+27028	Coimbatore-Trivandrum Mail	Mail	SR	Coimbatore	Trivandrum	1230	105	14:00	01:43	14:34	04:19	156	Clear	3	Delayed
+21850	Jaipur-Jodhpur Mail	Mail	NWR	Jaipur	Jodhpur	1447	111.3	13:45	02:45	14:26	05:34	169	Clear	2	Delayed
+72580	Bareilly-Kanpur Mail	Mail	NER	Bareilly	Kanpur	1245	108.9	00:15	11:41	01:23	14:33	172	Rain	2	Delayed
+33440	Gorakhpur-Kanpur Mail	Mail	NER	Gorakhpur	Kanpur	1158	451.2	17:45	20:19	18:14	22:27	128	Storm	1	Delayed
+90456	Kanpur-Bareilly Mail	Mail	NER	Kanpur	Bareilly	1829	80.3	04:00	02:46	04:21	04:05	79	Clear	1	Delayed
+18317	Bilaspur-Raipur Mail	Mail	SECR	Bilaspur	Raipur	1865	152.7	02:00	14:13	02:15	16:59	166	Clear	3	Delayed
+57347	Sealdah-Asansol Mail	Mail	ER	Sealdah	Asansol	1039	125.7	08:30	16:46	08:54	18:43	117	Heatwave	1	Delayed
+74465	Sealdah-Patna Mail	Mail	ER	Sealdah	Patna	1819	100.8	17:00	11:03	17:21	13:05	122	Storm	3	Delayed
+59657	Lucknow-New Delhi Express	Express	NR	Lucknow	New Delhi	1995	85.7	19:45	19:02	20:23	20:50	108	Clear	3	Delayed
+58995	Howrah-Sealdah Express	Express	ER	Howrah	Sealdah	1531	104.4	07:15	21:55	08:31	00:36	161	Storm	2	Delayed
+32245	Raipur-Nagpur Express	Express	SECR	Raipur	Nagpur	205	20.3	02:15	12:22	02:17	13:14	52	Rain	1	Delayed
+83565	Gaya-Dhanbad Express	Express	ECR	Gaya	Dhanbad	114	5	20:45	19:33	21:06	20:33	60	Fog	1	Delayed
+20693	Amritsar-New Delhi Express	Express	NR	Amritsar	New Delhi	1084	57.4	07:30	02:24	08:02	04:08	104	Rain	3	Delayed
+27389	Ajmer-Jodhpur Express	Express	NWR	Ajmer	Jodhpur	2213	276.6	07:15	15:15	07:20	15:40	25	Heatwave	1	Delayed
+22918	Gorakhpur-Allahabad Express	Express	NER	Gorakhpur	Allahabad	849	316.4	15:15	17:56	15:32	19:30	94	Rain	2	Delayed
+96306	Secunderabad-Vijayawada Express	Express	SCR	Secunderabad	Vijayawada	1295	593.1	13:15	15:26	13:15	15:34	8	Rain	3	On Time
+86961	Guntur-Vijayawada Express	Express	SCR	Guntur	Vijayawada	1817	509.4	10:30	14:04	10:54	15:03	59	Rain	2	Delayed
+26665	Muzaffarpur-Gaya Express	Express	ECR	Muzaffarpur	Gaya	2066	351.2	05:30	11:23	05:34	12:07	44	Storm	2	Delayed
+73575	Coimbatore-Trivandrum Express	Express	SR	Coimbatore	Trivandrum	1861	161.1	14:45	02:18	15:05	03:02	44	Heatwave	1	Delayed
+15678	Bareilly-Allahabad Express	Express	NER	Bareilly	Allahabad	2757	178.3	20:15	11:43	20:35	12:47	64	Heatwave	1	Delayed
+75221	Lucknow-Amritsar Express	Express	NR	Lucknow	Amritsar	606	29.6	20:30	16:58	21:03	18:09	71	Rain	2	Delayed
+51546	Patna-Dhanbad Express	Express	ECR	Patna	Dhanbad	1353	231.9	00:15	06:05	00:21	06:17	12	Clear	2	On Time
+88523	Patna-Sealdah Express	Express	ER	Patna	Sealdah	156	19.8	04:45	12:38	04:53	13:12	34	Rain	2	Delayed
+97677	Bikaner-Jodhpur Express	Express	NWR	Bikaner	Jodhpur	2647	203.1	16:45	05:47	17:11	07:08	81	Fog	2	Delayed
+86885	Bikaner-Jaipur Express	Express	NWR	Bikaner	Jaipur	1069	47.1	02:15	00:57	02:22	01:38	41	Clear	2	Delayed
+34820	Itarsi-Bhopal Express	Express	WCR	Itarsi	Bhopal	544	31.4	07:45	01:03	07:49	03:15	132	Storm	1	Delayed
+24940	Bikaner-Jaipur Express	Express	NWR	Bikaner	Jaipur	1426	112.7	18:30	07:09	19:31	10:00	171	Fog	2	Delayed
+79560	Patna-Howrah Express	Express	ER	Patna	Howrah	2161	239.7	16:00	01:01	16:41	03:07	126	Storm	1	Delayed
+80402	Bikaner-Ajmer Express	Express	NWR	Bikaner	Ajmer	2057	87.8	12:15	11:40	12:20	12:26	46	Rain	3	Delayed
+39702	Varanasi-New Delhi Express	Express	NR	Varanasi	New Delhi	426	46.6	05:30	14:38	06:11	17:09	151	Clear	3	Delayed
+38928	Vadodara-Surat Express	Express	WR	Vadodara	Surat	2111	88.9	03:00	02:45	03:46	05:00	135	Storm	2	Delayed
+11949	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	2129	545.9	07:15	11:09	08:35	14:07	178	Storm	3	Delayed
+75755	Chennai-Madurai Express	Express	SR	Chennai	Madurai	537	39.1	11:30	01:13	11:45	02:12	59	Fog	1	Delayed
+29184	Coimbatore-Chennai Express	Express	SR	Coimbatore	Chennai	725	32.6	17:45	15:59	17:59	16:44	45	Clear	2	Delayed
+74393	Muzaffarpur-Dhanbad Express	Express	ECR	Muzaffarpur	Dhanbad	331	25.6	10:00	22:56	10:06	23:26	30	Clear	1	Delayed
+67457	Ajmer-Jodhpur Express	Express	NWR	Ajmer	Jodhpur	1639	100.9	08:15	00:30	08:16	01:21	51	Rain	1	Delayed
+11663	Jaipur-Bikaner Express	Express	NWR	Jaipur	Bikaner	1390	524.5	06:30	09:09	07:07	10:55	106	Storm	3	Delayed
+82495	Allahabad-Kanpur Express	Express	NER	Allahabad	Kanpur	2022	298.1	06:00	12:47	06:02	13:24	37	Clear	1	Delayed
+15101	Ahmedabad-Mumbai Central Express	Express	WR	Ahmedabad	Mumbai Central	2132	203.7	12:30	22:58	13:00	00:23	85	Rain	2	Delayed
+29589	Durg-Raipur Express	Express	SECR	Durg	Raipur	764	116.6	07:30	14:03	07:34	14:11	8	Fog	2	On Time
+61696	Allahabad-Gorakhpur Express	Express	NER	Allahabad	Gorakhpur	167	11	11:45	02:54	11:48	03:00	6	Rain	2	On Time
+13540	Chennai-Trivandrum Express	Express	SR	Chennai	Trivandrum	543	45.9	07:30	19:20	08:12	21:54	154	Storm	2	Delayed
+56542	Vijayawada-Guntur Express	Express	SCR	Vijayawada	Guntur	697	58.5	01:15	13:10	01:20	15:17	127	Fog	3	Delayed
+50336	Ahmedabad-Mumbai Central Express	Express	WR	Ahmedabad	Mumbai Central	1399	127.8	12:15	23:12	12:42	01:58	166	Fog	3	Delayed
+76448	Varanasi-Amritsar Express	Express	NR	Varanasi	Amritsar	1203	147.9	00:45	08:53	00:55	09:17	24	Clear	3	Delayed
+38346	Madurai-Coimbatore Express	Express	SR	Madurai	Coimbatore	2385	133.9	00:30	18:19	00:43	18:52	33	Storm	2	Delayed
+71537	Hyderabad-Vijayawada Express	Express	SCR	Hyderabad	Vijayawada	2597	234.3	14:30	01:35	14:48	03:51	136	Heatwave	3	Delayed
+65103	Jaipur-Bikaner Express	Express	NWR	Jaipur	Bikaner	1644	102.8	02:00	18:00	02:22	18:53	53	Rain	2	Delayed
+21973	Bikaner-Jaipur Express	Express	NWR	Bikaner	Jaipur	2263	293.3	23:30	07:13	00:03	09:38	145	Clear	3	Delayed
+20024	Patna-Dhanbad Express	Express	ECR	Patna	Dhanbad	2375	184.6	15:45	04:37	16:16	06:00	83	Rain	3	Delayed
+90675	Trivandrum-Madurai Express	Express	SR	Trivandrum	Madurai	1998	89.9	10:00	08:13	10:05	10:15	122	Storm	2	Delayed
+87706	Secunderabad-Hyderabad Express	Express	SCR	Secunderabad	Hyderabad	804	58.1	23:00	12:50	23:01	13:35	45	Storm	2	Delayed
+70910	Varanasi-New Delhi Express	Express	NR	Varanasi	New Delhi	1987	101.2	12:00	07:38	12:03	08:17	39	Fog	1	Delayed
+42069	Hyderabad-Secunderabad Express	Express	SCR	Hyderabad	Secunderabad	1141	194.5	06:45	12:37	06:46	12:55	18	Heatwave	3	Delayed
+14501	Coimbatore-Chennai Express	Express	SR	Coimbatore	Chennai	729	349.9	05:15	07:20	05:42	08:18	58	Clear	2	Delayed
+73105	Itarsi-Kota Express	Express	WCR	Itarsi	Kota	2600	205.8	16:30	05:08	16:36	07:34	146	Fog	2	Delayed
+60633	Dhanbad-Muzaffarpur Express	Express	ECR	Dhanbad	Muzaffarpur	1905	328.4	05:15	11:03	05:27	14:03	180	Clear	3	Delayed
+71331	Jaipur-Bikaner Express	Express	NWR	Jaipur	Bikaner	1203	226.3	07:30	12:49	07:37	13:48	59	Heatwave	1	Delayed
+52204	Vadodara-Mumbai Central Express	Express	WR	Vadodara	Mumbai Central	1841	126.5	08:00	22:33	08:00	22:59	26	Heatwave	1	Delayed
+11511	Mumbai Central-Surat Express	Express	WR	Mumbai Central	Surat	959	188.7	21:15	02:20	21:27	03:29	69	Rain	2	Delayed
+12450	Jabalpur-Itarsi Express	Express	WCR	Jabalpur	Itarsi	1043	106.2	20:15	06:04	20:22	07:36	92	Rain	2	Delayed
+75340	Patna-Muzaffarpur Express	Express	ECR	Patna	Muzaffarpur	1539	1140	01:00	02:21	01:36	04:37	136	Rain	2	Delayed
+39513	Patna-Howrah Express	Express	ER	Patna	Howrah	2165	298.6	18:15	01:30	18:28	03:19	109	Rain	2	Delayed
+49681	Patna-Muzaffarpur Express	Express	ECR	Patna	Muzaffarpur	2247	490.3	15:00	19:35	15:08	21:10	95	Fog	1	Delayed
+71814	Coimbatore-Trivandrum Express	Express	SR	Coimbatore	Trivandrum	1758	81.6	08:00	05:33	08:20	07:48	135	Clear	2	Delayed
+65048	Muzaffarpur-Gaya Express	Express	ECR	Muzaffarpur	Gaya	2326	243.1	15:30	01:04	15:31	01:26	22	Fog	1	Delayed
+61580	Kota-Bhopal Express	Express	WCR	Kota	Bhopal	1568	168.6	11:30	20:48	12:02	21:59	71	Rain	2	Delayed
+87278	Secunderabad-Vijayawada Express	Express	SCR	Secunderabad	Vijayawada	2758	551.6	07:45	12:45	08:08	15:15	150	Heatwave	3	Delayed
+43623	Jodhpur-Ajmer Express	Express	NWR	Jodhpur	Ajmer	1755	84.2	00:45	21:35	00:47	21:45	10	Rain	3	On Time
+26958	Gaya-Dhanbad Express	Express	ECR	Gaya	Dhanbad	2007	141.2	03:15	17:28	03:34	19:03	95	Fog	3	Delayed
+52682	Patna-Gaya Express	Express	ECR	Patna	Gaya	2441	446.5	18:45	00:13	19:00	01:48	95	Storm	1	Delayed
+49226	Mumbai Central-Surat Express	Express	WR	Mumbai Central	Surat	134	12.3	11:15	22:09	12:15	00:14	125	Clear	2	Delayed
+61346	Asansol-Patna Express	Express	ER	Asansol	Patna	635	43	17:45	08:32	18:44	10:44	132	Storm	2	Delayed
+49117	Varanasi-Amritsar Express	Express	NR	Varanasi	Amritsar	2019	112.5	07:30	01:27	08:23	03:17	110	Heatwave	2	Delayed
+27848	Dhanbad-Gaya Express	Express	ECR	Dhanbad	Gaya	1652	165.2	22:00	08:00	23:05	10:55	175	Fog	2	Delayed
+46923	Sealdah-Asansol Express	Express	ER	Sealdah	Asansol	2255	145.3	15:30	07:01	15:38	08:19	78	Fog	3	Delayed
+83621	Amritsar-Lucknow Express	Express	NR	Amritsar	Lucknow	1061	117.2	15:45	00:48	16:56	03:10	142	Rain	3	Delayed
+41709	Bareilly-Kanpur Express	Express	NER	Bareilly	Kanpur	1831	293	04:45	11:00	05:10	13:20	140	Storm	3	Delayed
+23769	Asansol-Howrah Express	Express	ER	Asansol	Howrah	1743	378.9	10:15	14:51	10:25	16:31	100	Heatwave	1	Delayed
+50144	Patna-Howrah Express	Express	ER	Patna	Howrah	2278	138.3	01:15	17:43	01:38	19:50	127	Fog	2	Delayed
+70340	Mumbai Central-Ahmedabad Express	Express	WR	Mumbai Central	Ahmedabad	1580	83.9	11:30	06:20	11:38	06:45	25	Rain	1	Delayed
+24421	Raipur-Bilaspur Express	Express	SECR	Raipur	Bilaspur	2565	200.1	07:15	20:04	07:34	22:07	123	Heatwave	3	Delayed
+51154	New Delhi-Lucknow Express	Express	NR	New Delhi	Lucknow	1019	160.9	18:15	00:35	18:33	01:18	43	Storm	2	Delayed
+25343	Jabalpur-Bhopal Express	Express	WCR	Jabalpur	Bhopal	1507	685	03:45	05:57	04:41	08:45	168	Storm	3	Delayed
+35631	Bhopal-Jabalpur Express	Express	WCR	Bhopal	Jabalpur	1964	824.1	10:30	12:53	10:32	14:48	115	Rain	2	Delayed
+18474	Vijayawada-Hyderabad Express	Express	SCR	Vijayawada	Hyderabad	577	102.1	05:15	10:54	05:15	13:45	171	Storm	2	Delayed
+62536	Madurai-Trivandrum Express	Express	SR	Madurai	Trivandrum	1193	125.1	05:45	15:17	05:54	15:50	33	Clear	1	Delayed
+23318	Trivandrum-Coimbatore Express	Express	SR	Trivandrum	Coimbatore	1211	468.8	23:15	01:50	23:31	02:48	58	Fog	3	Delayed
+57976	Ahmedabad-Vadodara Express	Express	WR	Ahmedabad	Vadodara	150	6.3	05:30	05:19	05:50	06:55	96	Storm	1	Delayed
+11453	Bareilly-Kanpur Express	Express	NER	Bareilly	Kanpur	2326	210.2	08:45	19:49	09:09	20:52	63	Heatwave	1	Delayed
+51394	Jodhpur-Bikaner Express	Express	NWR	Jodhpur	Bikaner	500	70.4	08:45	15:51	08:51	16:22	31	Rain	3	Delayed
+67919	Patna-Asansol Express	Express	ER	Patna	Asansol	2768	333.5	03:15	11:33	03:51	14:01	148	Fog	3	Delayed
+25084	Amritsar-Lucknow Express	Express	NR	Amritsar	Lucknow	1006	103	12:00	21:46	12:18	23:12	86	Rain	1	Delayed
+16102	Ahmedabad-Mumbai Central Express	Express	WR	Ahmedabad	Mumbai Central	1136	47.9	14:45	14:27	15:26	17:22	175	Fog	2	Delayed
+69816	Dhanbad-Patna Express	Express	ECR	Dhanbad	Patna	985	63.5	08:45	00:16	09:02	02:54	158	Heatwave	3	Delayed
+65143	Ajmer-Jodhpur Express	Express	NWR	Ajmer	Jodhpur	1786	175.7	23:30	09:40	23:48	10:58	78	Heatwave	1	Delayed
+60952	Kanpur-Allahabad Express	Express	NER	Kanpur	Allahabad	1042	856.4	01:30	02:43	01:40	04:32	109	Fog	1	Delayed
+34429	Kota-Itarsi Express	Express	WCR	Kota	Itarsi	2771	119.8	10:30	09:38	11:10	11:48	130	Rain	3	Delayed
+48160	Amritsar-Lucknow Express	Express	NR	Amritsar	Lucknow	409	30.3	07:00	20:30	07:00	23:29	179	Rain	2	Delayed
+67434	Mumbai Central-Vadodara Express	Express	WR	Mumbai Central	Vadodara	2092	136.9	13:30	04:47	13:31	05:14	27	Storm	3	Delayed
+35640	Surat-Ahmedabad Express	Express	WR	Surat	Ahmedabad	2291	178.5	12:30	01:20	13:42	04:12	172	Clear	2	Delayed
+37879	Jodhpur-Ajmer Express	Express	NWR	Jodhpur	Ajmer	176	11.7	13:15	04:15	13:19	05:34	79	Heatwave	1	Delayed
+31970	Sealdah-Asansol Express	Express	ER	Sealdah	Asansol	1388	424.9	16:00	19:16	16:42	21:09	113	Rain	2	Delayed
+52568	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	2055	225.4	01:15	10:22	01:53	12:22	120	Clear	2	Delayed
+25132	Sealdah-Howrah Express	Express	ER	Sealdah	Howrah	147	16.2	08:30	17:35	08:33	18:29	54	Rain	2	Delayed
+93662	Madurai-Coimbatore Express	Express	SR	Madurai	Coimbatore	1576	172.2	23:45	08:54	00:19	10:44	110	Heatwave	1	Delayed
+50107	Nagpur-Bilaspur Express	Express	SECR	Nagpur	Bilaspur	2600	421.6	17:45	23:55	17:46	01:15	80	Fog	3	Delayed
+84836	Jabalpur-Kota Express	Express	WCR	Jabalpur	Kota	2570	175.8	03:45	18:22	03:52	18:41	19	Clear	3	Delayed
+55725	Durg-Nagpur Express	Express	SECR	Durg	Nagpur	1953	141.2	17:30	07:20	17:55	09:10	110	Heatwave	1	Delayed
+22031	Sealdah-Patna Express	Express	ER	Sealdah	Patna	2521	284.3	16:45	01:37	17:22	03:05	88	Rain	2	Delayed
+50160	Vadodara-Mumbai Central Express	Express	WR	Vadodara	Mumbai Central	626	41.2	08:30	23:41	08:49	02:06	145	Storm	2	Delayed
+22407	Jaipur-Ajmer Express	Express	NWR	Jaipur	Ajmer	1955	226	21:30	06:09	21:51	07:00	51	Heatwave	3	Delayed
+29524	Itarsi-Jabalpur Express	Express	WCR	Itarsi	Jabalpur	2023	1201.8	02:15	03:56	02:28	04:25	29	Storm	2	Delayed
+12604	Hyderabad-Vijayawada Express	Express	SCR	Hyderabad	Vijayawada	1513	143.4	07:15	17:48	07:43	19:53	125	Fog	3	Delayed
+56781	Patna-Muzaffarpur Express	Express	ECR	Patna	Muzaffarpur	2548	661.8	11:45	15:36	11:50	16:05	29	Rain	1	Delayed
+83249	Sealdah-Howrah Express	Express	ER	Sealdah	Howrah	2484	251.8	14:45	00:37	15:10	03:36	179	Rain	2	Delayed
+32235	Coimbatore-Trivandrum Express	Express	SR	Coimbatore	Trivandrum	241	25.7	01:15	10:38	01:25	11:40	62	Clear	2	Delayed
+65181	Chennai-Coimbatore Express	Express	SR	Chennai	Coimbatore	912	179.4	22:45	03:50	22:52	05:23	93	Fog	3	Delayed
+90193	Patna-Sealdah Express	Express	ER	Patna	Sealdah	2208	576	03:15	07:05	04:15	09:08	123	Heatwave	2	Delayed
+22088	Vijayawada-Guntur Express	Express	SCR	Vijayawada	Guntur	2216	96.6	11:45	10:42	12:22	13:23	161	Fog	1	Delayed
+72258	Gorakhpur-Bareilly Express	Express	NER	Gorakhpur	Bareilly	1162	115.8	06:45	16:47	06:57	19:14	147	Clear	1	Delayed
+74277	Patna-Howrah Express	Express	ER	Patna	Howrah	1619	439.5	07:15	10:56	07:44	12:43	107	Rain	3	Delayed
+81976	Amritsar-Varanasi Express	Express	NR	Amritsar	Varanasi	267	15	18:00	11:51	18:15	13:09	78	Rain	1	Delayed
+21151	Muzaffarpur-Dhanbad Express	Express	ECR	Muzaffarpur	Dhanbad	1646	311.5	13:30	18:47	13:33	19:21	34	Rain	3	Delayed
+94670	Coimbatore-Chennai Express	Express	SR	Coimbatore	Chennai	51	13.8	15:00	18:42	15:50	21:40	178	Rain	2	Delayed
+58321	Coimbatore-Chennai Express	Express	SR	Coimbatore	Chennai	287	26.2	06:00	16:56	06:10	18:00	64	Clear	1	Delayed
+92636	Gaya-Patna Express	Express	ECR	Gaya	Patna	1823	442.8	02:45	06:52	03:38	09:52	180	Heatwave	1	Delayed
+30611	Muzaffarpur-Patna Express	Express	ECR	Muzaffarpur	Patna	535	57.6	07:30	16:47	07:48	19:28	161	Storm	3	Delayed
+44901	Ahmedabad-Surat Express	Express	WR	Ahmedabad	Surat	1790	236	08:00	15:35	08:23	17:37	122	Clear	1	Delayed
+64015	Itarsi-Bhopal Express	Express	WCR	Itarsi	Bhopal	1290	64	10:30	06:40	11:06	08:07	87	Clear	3	Delayed
+40052	Gaya-Patna Express	Express	ECR	Gaya	Patna	548	263	18:30	20:35	18:46	21:21	46	Storm	3	Delayed
+14476	Ahmedabad-Surat Express	Express	WR	Ahmedabad	Surat	769	108.1	10:00	17:07	10:04	17:36	29	Clear	3	Delayed
+15368	Amritsar-Lucknow Express	Express	NR	Amritsar	Lucknow	971	48.2	07:00	03:08	07:16	03:41	33	Fog	1	Delayed
+61640	Jodhpur-Ajmer Express	Express	NWR	Jodhpur	Ajmer	1005	64.4	03:45	19:21	04:14	21:25	124	Storm	2	Delayed
+69524	Secunderabad-Vijayawada Express	Express	SCR	Secunderabad	Vijayawada	1812	275.9	12:30	19:04	12:57	20:17	73	Clear	1	Delayed
+37796	Vijayawada-Hyderabad Express	Express	SCR	Vijayawada	Hyderabad	592	75.4	23:30	07:21	00:08	08:47	86	Storm	2	Delayed
+68488	Howrah-Patna Express	Express	ER	Howrah	Patna	1046	97.5	04:15	14:59	04:28	16:37	98	Heatwave	3	Delayed
+45185	Dhanbad-Patna Express	Express	ECR	Dhanbad	Patna	246	72	12:00	15:25	12:30	16:58	93	Heatwave	1	Delayed
+91238	Secunderabad-Vijayawada Express	Express	SCR	Secunderabad	Vijayawada	79	23.7	06:30	09:50	06:36	10:41	51	Heatwave	3	Delayed
+77564	Jaipur-Jodhpur Express	Express	NWR	Jaipur	Jodhpur	2559	401.9	08:00	14:22	08:29	16:12	110	Rain	3	Delayed
+16965	Mumbai Central-Vadodara Express	Express	WR	Mumbai Central	Vadodara	2070	822.5	16:15	18:46	16:56	20:45	119	Rain	2	Delayed
+52377	Surat-Ahmedabad Express	Express	WR	Surat	Ahmedabad	661	49.7	13:00	02:18	13:03	02:33	15	Storm	1	On Time
+46189	Varanasi-Lucknow Express	Express	NR	Varanasi	Lucknow	1505	91.7	11:15	03:40	11:43	04:37	57	Heatwave	2	Delayed
+79872	Durg-Raipur Express	Express	SECR	Durg	Raipur	190	93.4	08:45	10:47	09:34	12:48	121	Fog	3	Delayed
+14866	Dhanbad-Gaya Express	Express	ECR	Dhanbad	Gaya	2696	185.7	18:15	08:46	18:32	09:40	54	Clear	1	Delayed
+38698	Vijayawada-Guntur Express	Express	SCR	Vijayawada	Guntur	1778	286.8	16:30	22:42	16:53	00:09	87	Rain	2	Delayed
+18830	Ahmedabad-Vadodara Express	Express	WR	Ahmedabad	Vadodara	2427	1673.8	13:45	15:12	14:03	16:32	80	Rain	2	Delayed
+34693	Jodhpur-Jaipur Express	Express	NWR	Jodhpur	Jaipur	1557	219.8	16:15	23:20	16:32	23:59	39	Rain	3	Delayed
+42003	Varanasi-Amritsar Express	Express	NR	Varanasi	Amritsar	1989	139.1	22:15	12:33	22:44	14:09	96	Fog	1	Delayed
+15263	Bilaspur-Nagpur Express	Express	SECR	Bilaspur	Nagpur	1782	327	20:30	01:57	21:33	04:15	138	Storm	3	Delayed
+15716	Vijayawada-Secunderabad Express	Express	SCR	Vijayawada	Secunderabad	1803	126.4	19:30	09:46	19:50	11:16	90	Rain	2	Delayed
+59191	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	1270	160.8	10:00	17:54	10:15	19:15	81	Fog	1	Delayed
+52131	Allahabad-Bareilly Express	Express	NER	Allahabad	Bareilly	2271	235.7	22:30	08:08	23:05	09:29	81	Rain	1	Delayed
+22353	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	1114	147.2	10:15	17:49	11:43	20:49	180	Fog	2	Delayed
+24607	Dhanbad-Gaya Express	Express	ECR	Dhanbad	Gaya	240	92.3	15:45	18:21	15:52	20:33	132	Heatwave	3	Delayed
+46029	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	1933	647.9	18:00	20:59	18:40	23:56	177	Clear	1	Delayed
+69435	Vadodara-Surat Express	Express	WR	Vadodara	Surat	588	63.6	13:00	22:15	13:25	23:09	54	Storm	1	Delayed
+65496	Asansol-Patna Express	Express	ER	Asansol	Patna	1467	109.5	19:00	08:24	19:32	09:48	84	Fog	3	Delayed
+58143	Amritsar-Lucknow Express	Express	NR	Amritsar	Lucknow	1127	68.7	16:15	08:39	17:17	10:47	128	Fog	3	Delayed
+91122	Ajmer-Jodhpur Express	Express	NWR	Ajmer	Jodhpur	565	389.7	11:30	12:57	12:23	15:56	179	Rain	3	Delayed
+11275	Mumbai Central-Surat Express	Express	WR	Mumbai Central	Surat	361	47.7	07:30	15:04	07:48	16:32	88	Rain	2	Delayed
+88583	Jabalpur-Kota Express	Express	WCR	Jabalpur	Kota	2508	147.8	03:45	20:43	04:44	23:03	140	Clear	3	Delayed
+85762	Bikaner-Jaipur Express	Express	NWR	Bikaner	Jaipur	1890	161.3	22:45	10:28	22:56	10:57	29	Storm	3	Delayed
+94569	Amritsar-Varanasi Express	Express	NR	Amritsar	Varanasi	864	375.7	16:15	18:33	16:39	20:02	89	Fog	2	Delayed
+56291	Amritsar-New Delhi Express	Express	NR	Amritsar	New Delhi	207	10.6	15:30	11:00	16:08	13:09	129	Rain	2	Delayed
+68102	Mumbai Central-Vadodara Express	Express	WR	Mumbai Central	Vadodara	2559	226.1	19:45	07:04	20:36	09:07	123	Fog	2	Delayed
+36304	Patna-Asansol Express	Express	ER	Patna	Asansol	1801	155	21:00	08:37	21:03	09:11	34	Clear	3	Delayed
+76609	Lucknow-Amritsar Express	Express	NR	Lucknow	Amritsar	958	163.3	06:30	12:22	07:15	15:20	178	Rain	2	Delayed
+73585	Guntur-Vijayawada Express	Express	SCR	Guntur	Vijayawada	2103	136.6	09:15	00:39	09:19	01:54	75	Fog	1	Delayed
+85038	Gorakhpur-Kanpur Express	Express	NER	Gorakhpur	Kanpur	2709	378.9	09:30	16:39	09:33	17:33	54	Clear	1	Delayed
+59216	Surat-Ahmedabad Express	Express	WR	Surat	Ahmedabad	1794	201.2	04:15	13:10	04:41	14:28	78	Fog	2	Delayed
+66023	Muzaffarpur-Patna Express	Express	ECR	Muzaffarpur	Patna	784	44.8	02:45	20:15	03:01	21:23	68	Clear	1	Delayed
+95326	Mumbai Central-Ahmedabad Express	Express	WR	Mumbai Central	Ahmedabad	364	168	13:15	15:25	13:18	15:35	10	Storm	1	On Time
+18904	Coimbatore-Madurai Express	Express	SR	Coimbatore	Madurai	372	177.1	17:15	19:21	17:23	20:44	83	Heatwave	3	Delayed
+25038	Durg-Bilaspur Express	Express	SECR	Durg	Bilaspur	1684	80.3	07:30	04:28	07:30	04:58	30	Rain	3	Delayed
+81827	Nagpur-Bilaspur Express	Express	SECR	Nagpur	Bilaspur	2755	140.1	08:30	04:10	08:40	05:12	62	Fog	3	Delayed
+24574	Lucknow-Varanasi Express	Express	NR	Lucknow	Varanasi	1132	71.1	02:30	18:25	02:30	18:52	27	Clear	1	Delayed
+56927	Lucknow-New Delhi Express	Express	NR	Lucknow	New Delhi	2667	205.7	05:15	18:13	05:28	19:45	92	Clear	2	Delayed
+55828	Chennai-Trivandrum Express	Express	SR	Chennai	Trivandrum	2245	990.4	20:30	22:46	20:49	00:20	94	Heatwave	2	Delayed
+32952	New Delhi-Varanasi Express	Express	NR	New Delhi	Varanasi	2405	144.3	14:45	07:25	14:47	08:06	41	Heatwave	3	Delayed
+30533	Jodhpur-Bikaner Express	Express	NWR	Jodhpur	Bikaner	1107	52.5	21:30	18:34	22:07	20:00	86	Storm	3	Delayed
+85496	Coimbatore-Chennai Express	Express	SR	Coimbatore	Chennai	2412	206.7	02:30	14:10	02:30	15:41	91	Heatwave	1	Delayed
+93062	Asansol-Sealdah Express	Express	ER	Asansol	Sealdah	1478	98.6	14:15	05:14	14:37	07:32	138	Rain	2	Delayed
+39844	Lucknow-Amritsar Express	Express	NR	Lucknow	Amritsar	1995	136	18:15	08:55	18:20	09:34	39	Fog	2	Delayed
+76250	Howrah-Patna Express	Express	ER	Howrah	Patna	813	69.2	13:30	01:15	14:07	03:27	132	Heatwave	3	Delayed
+93378	Gaya-Muzaffarpur Express	Express	ECR	Gaya	Muzaffarpur	1228	185.1	02:30	09:08	02:30	10:32	84	Rain	3	Delayed
+81751	New Delhi-Varanasi Express	Express	NR	New Delhi	Varanasi	680	61.7	13:15	00:16	13:45	02:43	147	Heatwave	2	Delayed
+15516	Varanasi-Amritsar Express	Express	NR	Varanasi	Amritsar	1756	171.9	13:30	23:43	13:30	00:02	19	Heatwave	1	Delayed
+74128	Surat-Vadodara Express	Express	WR	Surat	Vadodara	1695	102.8	23:30	15:59	23:38	16:54	55	Fog	2	Delayed
+46244	Coimbatore-Trivandrum Express	Express	SR	Coimbatore	Trivandrum	1419	104.7	06:45	20:18	07:37	22:21	123	Clear	3	Delayed
+84941	Bhopal-Jabalpur Express	Express	WCR	Bhopal	Jabalpur	2247	145.6	04:00	19:26	04:14	21:23	117	Heatwave	2	Delayed
+29086	Raipur-Durg Express	Express	SECR	Raipur	Durg	1522	215.9	15:30	22:33	16:31	01:15	162	Fog	2	Delayed
+74484	Hyderabad-Guntur Express	Express	SCR	Hyderabad	Guntur	192	25.6	18:00	01:30	18:19	02:08	38	Clear	2	Delayed
+84687	Nagpur-Durg Express	Express	SECR	Nagpur	Durg	2624	143.4	08:45	03:03	09:08	04:47	104	Fog	2	Delayed
+49148	Kota-Bhopal Express	Express	WCR	Kota	Bhopal	1946	128.7	03:00	18:07	03:00	18:15	8	Heatwave	3	On Time
+44755	Surat-Mumbai Central Express	Express	WR	Surat	Mumbai Central	2503	139.1	09:45	03:45	09:47	04:06	21	Heatwave	3	Delayed
+78913	Coimbatore-Trivandrum Express	Express	SR	Coimbatore	Trivandrum	1429	174.6	19:30	03:41	19:33	04:48	67	Rain	2	Delayed
+60650	Vijayawada-Hyderabad Express	Express	SCR	Vijayawada	Hyderabad	358	27.5	02:00	15:02	02:00	17:26	144	Storm	1	Delayed
+89312	Itarsi-Bhopal Express	Express	WCR	Itarsi	Bhopal	1230	60.4	10:00	06:21	10:01	06:56	35	Clear	1	Delayed
+56320	Ajmer-Jaipur Express	Express	NWR	Ajmer	Jaipur	1144	55.4	03:45	00:24	03:52	02:01	97	Rain	3	Delayed
+44593	Itarsi-Kota Express	Express	WCR	Itarsi	Kota	727	100.3	07:30	14:45	07:32	15:08	23	Heatwave	3	Delayed
+76502	Bareilly-Gorakhpur Express	Express	NER	Bareilly	Gorakhpur	2213	130.7	08:45	01:41	08:47	04:26	165	Rain	3	Delayed
+71423	Bhopal-Jabalpur Express	Express	WCR	Bhopal	Jabalpur	2055	110.7	22:45	17:19	23:13	18:41	82	Storm	3	Delayed
+32095	Muzaffarpur-Dhanbad Express	Express	ECR	Muzaffarpur	Dhanbad	1205	89.7	07:45	21:11	08:23	22:29	78	Rain	2	Delayed
+92256	Allahabad-Bareilly Express	Express	NER	Allahabad	Bareilly	439	32	16:15	05:57	16:28	06:52	55	Clear	1	Delayed
+12395	Nagpur-Raipur Express	Express	SECR	Nagpur	Raipur	1577	73.2	12:45	10:17	13:33	12:18	121	Fog	2	Delayed
+34906	Amritsar-New Delhi Express	Express	NR	Amritsar	New Delhi	412	46.7	02:00	10:49	02:28	13:26	157	Heatwave	2	Delayed
+84180	Itarsi-Bhopal Express	Express	WCR	Itarsi	Bhopal	1496	695.8	09:15	11:24	09:36	13:02	98	Clear	1	Delayed
+39334	Ahmedabad-Surat Express	Express	WR	Ahmedabad	Surat	2266	487.3	08:45	13:24	09:14	14:56	92	Fog	3	Delayed
+31686	Jodhpur-Jaipur Express	Express	NWR	Jodhpur	Jaipur	473	99.2	04:30	09:16	04:34	10:46	90	Fog	3	Delayed
+64201	Jabalpur-Kota Express	Express	WCR	Jabalpur	Kota	1521	119.8	23:00	11:42	23:13	12:42	60	Storm	2	Delayed
+26746	Guntur-Secunderabad Express	Express	SCR	Guntur	Secunderabad	868	53.8	01:00	17:08	01:52	19:26	138	Rain	1	Delayed
+14399	Ajmer-Bikaner Express	Express	NWR	Ajmer	Bikaner	2726	283	14:45	00:23	15:50	03:13	170	Fog	3	Delayed
+49306	Chennai-Madurai Express	Express	SR	Chennai	Madurai	2025	137.4	19:00	09:44	19:40	11:49	125	Rain	3	Delayed
+10730	Coimbatore-Chennai Express	Express	SR	Coimbatore	Chennai	1791	396.5	23:00	03:31	23:00	03:40	9	Clear	3	On Time
+29140	Mumbai Central-Surat Express	Express	WR	Mumbai Central	Surat	2765	177.8	21:30	13:03	21:30	13:18	15	Heatwave	1	On Time
+58350	Patna-Gaya Express	Express	ECR	Patna	Gaya	1545	702.3	17:00	19:12	18:07	21:55	163	Clear	2	Delayed
+92396	Nagpur-Bilaspur Express	Express	SECR	Nagpur	Bilaspur	403	42.3	09:15	18:46	10:32	21:28	162	Rain	2	Delayed
+39523	Vijayawada-Secunderabad Express	Express	SCR	Vijayawada	Secunderabad	2231	207.2	03:45	14:31	04:19	15:52	81	Heatwave	3	Delayed
+75799	Ajmer-Jodhpur Express	Express	NWR	Ajmer	Jodhpur	1425	239.5	22:15	04:12	22:31	05:29	77	Rain	1	Delayed
+61302	Gaya-Muzaffarpur Express	Express	ECR	Gaya	Muzaffarpur	409	17.5	20:15	19:38	20:37	20:31	53	Clear	2	Delayed
+14429	Bhopal-Jabalpur Express	Express	WCR	Bhopal	Jabalpur	2149	175.2	19:45	08:01	19:59	09:51	110	Fog	2	Delayed
+19949	Itarsi-Bhopal Express	Express	WCR	Itarsi	Bhopal	775	47.2	08:30	00:55	08:46	02:16	81	Clear	2	Delayed
+94531	Jaipur-Jodhpur Express	Express	NWR	Jaipur	Jodhpur	387	124.2	15:15	18:22	15:22	18:49	27	Fog	2	Delayed
+18387	Sealdah-Asansol Express	Express	ER	Sealdah	Asansol	2083	140.7	08:15	23:03	08:18	23:23	20	Rain	2	Delayed
+48181	Ajmer-Jaipur Express	Express	NWR	Ajmer	Jaipur	2026	220.6	04:45	13:56	05:03	14:44	48	Storm	2	Delayed
+13374	Vijayawada-Guntur Express	Express	SCR	Vijayawada	Guntur	1869	97.2	01:15	20:29	01:57	22:16	107	Clear	2	Delayed
+34293	Jabalpur-Kota Express	Express	WCR	Jabalpur	Kota	1830	156.9	16:30	04:10	16:47	04:57	47	Rain	3	Delayed
+54655	Lucknow-Varanasi Express	Express	NR	Lucknow	Varanasi	1605	1132.9	15:30	16:55	15:58	17:58	63	Fog	1	Delayed
+19434	Bareilly-Allahabad Express	Express	NER	Bareilly	Allahabad	2655	650.2	14:00	18:05	14:21	20:13	128	Fog	3	Delayed
+41190	Secunderabad-Hyderabad Express	Express	SCR	Secunderabad	Hyderabad	1431	471.8	11:30	14:32	11:42	16:09	97	Fog	2	Delayed
+46130	Mumbai Central-Vadodara Express	Express	WR	Mumbai Central	Vadodara	2578	186.1	05:00	18:51	05:23	20:14	83	Clear	1	Delayed
+31199	Bhopal-Itarsi Express	Express	WCR	Bhopal	Itarsi	214	62.3	07:30	10:56	08:00	12:34	98	Storm	1	Delayed
+60252	Gorakhpur-Allahabad Express	Express	NER	Gorakhpur	Allahabad	438	19.1	00:45	23:40	01:16	02:40	180	Rain	3	Delayed
+15568	Jabalpur-Kota Express	Express	WCR	Jabalpur	Kota	2495	204.5	15:15	03:27	15:53	05:38	131	Heatwave	2	Delayed
+88378	Gaya-Muzaffarpur Express	Express	ECR	Gaya	Muzaffarpur	2145	227	03:00	12:27	03:09	14:18	111	Storm	1	Delayed
+83383	Gorakhpur-Bareilly Express	Express	NER	Gorakhpur	Bareilly	562	24.8	05:45	04:27	06:47	06:43	136	Heatwave	3	Delayed
+13131	Guntur-Secunderabad Express	Express	SCR	Guntur	Secunderabad	549	42.5	16:30	05:25	16:30	06:34	69	Heatwave	3	Delayed
+95041	Gaya-Dhanbad Express	Express	ECR	Gaya	Dhanbad	1204	102.6	01:00	12:44	01:56	14:43	119	Heatwave	1	Delayed
+39816	Kanpur-Allahabad Express	Express	NER	Kanpur	Allahabad	315	26.9	01:45	13:28	01:49	13:56	28	Fog	1	Delayed
+61932	Lucknow-New Delhi Express	Express	NR	Lucknow	New Delhi	1406	300.2	10:45	15:26	11:21	16:57	91	Rain	3	Delayed
+12253	Patna-Sealdah Express	Express	ER	Patna	Sealdah	2628	198.8	13:45	02:58	13:46	03:42	44	Rain	3	Delayed
+96763	Madurai-Trivandrum Express	Express	SR	Madurai	Trivandrum	638	31.8	18:45	14:49	19:37	16:44	115	Heatwave	3	Delayed
+90530	Lucknow-Amritsar Express	Express	NR	Lucknow	Amritsar	2747	123.6	05:30	03:43	05:42	04:39	56	Fog	2	Delayed
+54075	Bareilly-Allahabad Express	Express	NER	Bareilly	Allahabad	594	36.6	01:45	18:00	02:40	20:13	133	Clear	1	Delayed
+76510	Varanasi-Amritsar Express	Express	NR	Varanasi	Amritsar	844	142.2	13:45	19:41	13:56	20:37	56	Clear	2	Delayed
+87910	Mumbai Central-Ahmedabad Express	Express	WR	Mumbai Central	Ahmedabad	2159	157.2	06:30	20:14	06:34	22:07	113	Storm	2	Delayed
+24874	Hyderabad-Guntur Express	Express	SCR	Hyderabad	Guntur	2018	202.5	11:00	20:58	11:24	23:11	133	Storm	1	Delayed
+86607	Vijayawada-Guntur Express	Express	SCR	Vijayawada	Guntur	1333	92.5	19:30	09:55	19:31	10:08	13	Clear	2	On Time
+13221	Varanasi-Amritsar Express	Express	NR	Varanasi	Amritsar	1634	163.1	17:45	03:46	17:51	04:43	57	Storm	2	Delayed
+36413	Kanpur-Gorakhpur Express	Express	NER	Kanpur	Gorakhpur	133	36.6	04:45	08:23	04:58	10:25	122	Clear	1	Delayed
+83420	Kanpur-Gorakhpur Express	Express	NER	Kanpur	Gorakhpur	1069	64.5	10:00	02:34	11:01	04:47	133	Fog	2	Delayed
+43639	Vijayawada-Hyderabad Express	Express	SCR	Vijayawada	Hyderabad	1068	199	17:30	22:52	17:36	23:15	23	Fog	3	Delayed
+25161	Vijayawada-Secunderabad Express	Express	SCR	Vijayawada	Secunderabad	2782	435.8	19:30	01:53	19:52	02:42	49	Clear	3	Delayed
+89420	Mumbai Central-Vadodara Express	Express	WR	Mumbai Central	Vadodara	432	30.4	05:15	19:28	06:05	22:11	163	Heatwave	3	Delayed
+58729	Allahabad-Gorakhpur Express	Express	NER	Allahabad	Gorakhpur	631	105.5	01:00	06:59	01:26	08:42	103	Fog	3	Delayed
+17505	Ahmedabad-Mumbai Central Express	Express	WR	Ahmedabad	Mumbai Central	2182	423.7	01:00	06:09	01:11	06:55	46	Rain	1	Delayed
+46905	Trivandrum-Coimbatore Express	Express	SR	Trivandrum	Coimbatore	1862	498.8	21:30	01:14	22:22	03:01	107	Storm	3	Delayed
+30246	Gorakhpur-Kanpur Express	Express	NER	Gorakhpur	Kanpur	406	36.5	08:00	19:07	09:07	21:45	158	Heatwave	2	Delayed
+14969	Coimbatore-Madurai Express	Express	SR	Coimbatore	Madurai	1123	51.8	11:00	08:42	12:07	11:09	147	Storm	2	Delayed
+20480	Raipur-Nagpur Express	Express	SECR	Raipur	Nagpur	1668	222.9	19:00	02:29	19:00	04:04	95	Heatwave	3	Delayed
+79842	Muzaffarpur-Gaya Express	Express	ECR	Muzaffarpur	Gaya	1572	731.2	14:30	16:39	14:41	17:31	52	Rain	3	Delayed
+44362	Jodhpur-Jaipur Express	Express	NWR	Jodhpur	Jaipur	1351	134.4	23:30	09:33	23:50	10:55	82	Clear	3	Delayed
+25057	Itarsi-Kota Express	Express	WCR	Itarsi	Kota	53	5	22:15	08:53	23:06	10:35	102	Storm	3	Delayed
+10522	Sealdah-Patna Express	Express	ER	Sealdah	Patna	2117	147.2	07:45	22:08	08:23	23:49	101	Heatwave	2	Delayed
+63110	Gorakhpur-Bareilly Express	Express	NER	Gorakhpur	Bareilly	2790	164.8	21:45	14:41	22:12	16:00	79	Rain	2	Delayed
+69117	Dhanbad-Gaya Express	Express	ECR	Dhanbad	Gaya	1687	152.4	05:15	16:19	05:17	17:25	66	Heatwave	2	Delayed
+44380	Gaya-Patna Express	Express	ECR	Gaya	Patna	579	67.6	19:45	04:19	20:08	06:00	101	Heatwave	2	Delayed
+16467	Kota-Itarsi Express	Express	WCR	Kota	Itarsi	870	63.4	18:45	08:28	19:41	11:11	163	Heatwave	2	Delayed
+65446	Amritsar-Varanasi Express	Express	NR	Amritsar	Varanasi	2284	242.5	20:15	05:40	21:04	07:32	112	Heatwave	1	Delayed
+89417	Guntur-Secunderabad Express	Express	SCR	Guntur	Secunderabad	2725	242.6	02:15	13:29	02:40	15:03	94	Fog	3	Delayed
+49532	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	552	69.4	01:30	09:27	01:35	09:50	23	Fog	2	Delayed
+48621	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	518	107.5	23:30	04:19	23:39	05:52	93	Rain	3	Delayed
+34707	Guntur-Vijayawada Express	Express	SCR	Guntur	Vijayawada	2369	138.9	16:15	09:18	16:38	11:47	149	Rain	2	Delayed
+78854	Jaipur-Jodhpur Express	Express	NWR	Jaipur	Jodhpur	1852	526.6	06:00	09:31	06:17	10:12	41	Storm	2	Delayed
+27088	Bareilly-Allahabad Express	Express	NER	Bareilly	Allahabad	63	3.8	04:00	20:26	04:42	22:16	110	Clear	2	Delayed
+85466	Vadodara-Ahmedabad Express	Express	WR	Vadodara	Ahmedabad	2289	120.9	03:15	22:11	03:25	22:51	40	Storm	3	Delayed
+59275	Amritsar-New Delhi Express	Express	NR	Amritsar	New Delhi	159	13.7	15:15	02:50	16:21	05:03	133	Rain	2	Delayed
+50259	Patna-Asansol Express	Express	ER	Patna	Asansol	2277	131.4	04:45	22:05	04:50	22:35	30	Rain	3	Delayed
+17313	Asansol-Patna Express	Express	ER	Asansol	Patna	1806	1290	19:30	20:54	19:41	22:46	112	Heatwave	1	Delayed
+62967	Surat-Vadodara Express	Express	WR	Surat	Vadodara	2752	225.9	19:00	07:11	19:03	07:51	40	Rain	3	Delayed
+39485	Patna-Gaya Express	Express	ECR	Patna	Gaya	1845	219.2	00:30	08:55	01:13	11:08	133	Clear	2	Delayed
+33892	Amritsar-Varanasi Express	Express	NR	Amritsar	Varanasi	2585	303.5	17:15	01:46	18:28	04:33	167	Clear	1	Delayed
+35918	Surat-Ahmedabad Express	Express	WR	Surat	Ahmedabad	1181	56.6	08:30	05:23	08:32	05:51	28	Fog	2	Delayed
+93265	Jabalpur-Itarsi Express	Express	WCR	Jabalpur	Itarsi	1220	156.1	09:45	17:34	09:51	20:03	149	Heatwave	2	Delayed
+46389	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	1080	64.5	22:45	15:29	22:57	16:26	57	Storm	2	Delayed
+50904	Bilaspur-Durg Express	Express	SECR	Bilaspur	Durg	159	7.1	12:15	10:42	12:16	10:48	6	Fog	2	On Time
+76048	Asansol-Patna Express	Express	ER	Asansol	Patna	2388	115.7	03:15	23:53	03:19	01:43	110	Heatwave	1	Delayed
+20486	Varanasi-Lucknow Express	Express	NR	Varanasi	Lucknow	995	50.3	23:30	19:16	00:24	21:49	153	Fog	2	Delayed
+25731	Durg-Bilaspur Express	Express	SECR	Durg	Bilaspur	1829	116.2	22:30	14:14	22:49	15:46	92	Heatwave	1	Delayed
+91424	Trivandrum-Chennai Express	Express	SR	Trivandrum	Chennai	872	282.8	10:15	13:20	10:56	15:31	131	Rain	1	Delayed
+14571	Jaipur-Ajmer Express	Express	NWR	Jaipur	Ajmer	2378	199.3	19:15	07:11	19:15	07:23	12	Heatwave	3	On Time
+75047	Jabalpur-Bhopal Express	Express	WCR	Jabalpur	Bhopal	628	27.2	20:30	19:35	21:15	22:01	146	Fog	2	Delayed
+24711	Muzaffarpur-Gaya Express	Express	ECR	Muzaffarpur	Gaya	1857	179.4	08:15	18:36	08:37	20:43	127	Fog	2	Delayed
+58183	Ahmedabad-Surat Express	Express	WR	Ahmedabad	Surat	2458	587.6	02:00	06:11	02:33	07:49	98	Clear	3	Delayed
+31707	Hyderabad-Guntur Express	Express	SCR	Hyderabad	Guntur	2034	248.6	13:30	21:41	13:50	22:26	45	Heatwave	3	Delayed
+34111	Asansol-Sealdah Express	Express	ER	Asansol	Sealdah	1425	88	07:00	23:12	07:08	23:29	17	Storm	2	Delayed
+59842	Dhanbad-Patna Express	Express	ECR	Dhanbad	Patna	1527	172.5	14:30	23:21	14:59	02:05	164	Clear	2	Delayed
+19324	Vadodara-Mumbai Central Express	Express	WR	Vadodara	Mumbai Central	1679	87.9	02:00	21:06	02:02	22:01	55	Clear	3	Delayed
+96433	Kota-Bhopal Express	Express	WCR	Kota	Bhopal	1026	184.9	10:00	15:33	10:19	16:34	61	Rain	1	Delayed
+54768	Allahabad-Gorakhpur Express	Express	NER	Allahabad	Gorakhpur	1508	548.4	17:00	19:45	17:34	20:55	70	Heatwave	2	Delayed
+68103	Raipur-Bilaspur Express	Express	SECR	Raipur	Bilaspur	2468	329.1	20:00	03:30	20:18	04:14	44	Clear	2	Delayed
+11237	Durg-Raipur Express	Express	SECR	Durg	Raipur	1131	92.2	12:15	00:31	12:22	01:10	39	Clear	2	Delayed
+75265	Dhanbad-Gaya Express	Express	ECR	Dhanbad	Gaya	1103	103.7	21:45	08:23	22:12	10:03	100	Storm	2	Delayed
+49080	Secunderabad-Vijayawada Express	Express	SCR	Secunderabad	Vijayawada	2358	447.7	16:45	22:01	16:55	22:25	24	Clear	3	Delayed
+44790	Gaya-Patna Express	Express	ECR	Gaya	Patna	1389	108.9	02:45	15:30	02:53	16:02	32	Clear	2	Delayed
+13690	New Delhi-Amritsar Express	Express	NR	New Delhi	Amritsar	2669	176	00:30	15:40	00:34	16:59	79	Fog	3	Delayed
+22461	Guntur-Secunderabad Express	Express	SCR	Guntur	Secunderabad	2448	202.3	13:00	01:06	13:04	01:14	8	Heatwave	2	On Time
+17996	Jodhpur-Jaipur Express	Express	NWR	Jodhpur	Jaipur	1971	159	05:00	17:24	05:07	18:01	37	Clear	3	Delayed
+61676	Allahabad-Kanpur Express	Express	NER	Allahabad	Kanpur	2157	280.1	01:15	08:57	01:25	10:57	120	Rain	3	Delayed
+37467	Patna-Howrah Express	Express	ER	Patna	Howrah	2399	167.6	15:30	05:49	16:45	08:37	168	Clear	1	Delayed
+30878	Vadodara-Surat Express	Express	WR	Vadodara	Surat	2411	113.9	06:45	03:55	07:51	06:53	178	Clear	3	Delayed
+86958	Gorakhpur-Kanpur Express	Express	NER	Gorakhpur	Kanpur	2119	225.8	00:45	10:08	00:47	10:14	6	Rain	3	On Time
+49180	Mumbai Central-Surat Express	Express	WR	Mumbai Central	Surat	2006	781.6	07:00	09:34	07:15	10:38	64	Clear	1	Delayed
+78042	Jaipur-Ajmer Express	Express	NWR	Jaipur	Ajmer	1562	132.2	07:30	19:19	07:33	19:36	17	Clear	1	Delayed
+28094	Jaipur-Jodhpur Express	Express	NWR	Jaipur	Jodhpur	1355	200.7	16:30	23:15	16:47	00:29	74	Heatwave	1	Delayed
+60340	Bilaspur-Nagpur Express	Express	SECR	Bilaspur	Nagpur	2233	321.3	09:00	15:57	09:02	16:10	13	Heatwave	2	On Time
+13950	Coimbatore-Madurai Express	Express	SR	Coimbatore	Madurai	1004	96.2	17:45	04:11	18:19	06:08	117	Rain	1	Delayed
+87279	Jaipur-Ajmer Express	Express	NWR	Jaipur	Ajmer	438	46.5	00:00	09:25	00:57	12:25	180	Clear	2	Delayed
+93174	Hyderabad-Vijayawada Express	Express	SCR	Hyderabad	Vijayawada	1975	94	07:30	04:30	07:36	05:42	72	Fog	3	Delayed
+71705	Jodhpur-Jaipur Express	Express	NWR	Jodhpur	Jaipur	435	27.2	20:00	12:01	20:09	14:05	124	Heatwave	1	Delayed
+76450	Madurai-Trivandrum Express	Express	SR	Madurai	Trivandrum	345	66.3	14:45	19:57	14:53	21:05	68	Heatwave	1	Delayed
+73635	Sealdah-Howrah Express	Express	ER	Sealdah	Howrah	470	39.3	14:00	01:58	14:02	03:41	103	Clear	3	Delayed
+33715	Bhopal-Kota Express	Express	WCR	Bhopal	Kota	327	20.4	22:45	14:48	23:44	17:11	143	Rain	2	Delayed
+77672	Itarsi-Kota Express	Express	WCR	Itarsi	Kota	2710	426.8	10:00	16:21	10:07	18:18	117	Storm	1	Delayed
+55316	Kota-Itarsi Express	Express	WCR	Kota	Itarsi	1400	164.1	17:00	01:32	17:18	03:01	89	Clear	3	Delayed
+48221	Kota-Bhopal Express	Express	WCR	Kota	Bhopal	1276	218.7	16:45	22:35	16:45	00:34	119	Storm	3	Delayed
+70873	Guntur-Secunderabad Express	Express	SCR	Guntur	Secunderabad	396	913.8	02:15	02:41	03:10	04:52	131	Heatwave	3	Delayed
+28408	New Delhi-Varanasi Express	Express	NR	New Delhi	Varanasi	1276	62.3	11:00	07:29	11:00	08:48	79	Heatwave	3	Delayed
+21040	Dhanbad-Muzaffarpur Express	Express	ECR	Dhanbad	Muzaffarpur	1634	153.9	02:00	12:37	02:06	13:54	77	Heatwave	2	Delayed
+95505	New Delhi-Lucknow Express	Express	NR	New Delhi	Lucknow	904	155.4	22:00	03:49	22:06	04:01	12	Storm	1	On Time
+78290	New Delhi-Amritsar Express	Express	NR	New Delhi	Amritsar	936	237	07:45	11:42	07:46	11:47	5	Storm	2	On Time
+22837	Asansol-Patna Express	Express	ER	Asansol	Patna	442	40.9	23:45	10:33	00:01	12:24	111	Heatwave	2	Delayed
+52959	Vadodara-Ahmedabad Express	Express	WR	Vadodara	Ahmedabad	1562	65.3	14:00	13:55	14:04	16:06	131	Clear	2	Delayed
+12919	Vijayawada-Hyderabad Express	Express	SCR	Vijayawada	Hyderabad	1975	200.8	12:30	22:20	13:33	00:42	142	Clear	3	Delayed
+15010	Ajmer-Jaipur Express	Express	NWR	Ajmer	Jaipur	2420	138.3	05:15	22:45	05:29	23:23	38	Rain	1	Delayed
+26404	Muzaffarpur-Patna Express	Express	ECR	Muzaffarpur	Patna	1381	443.1	06:15	09:22	06:30	09:55	33	Storm	1	Delayed
+96081	Ahmedabad-Vadodara Express	Express	WR	Ahmedabad	Vadodara	2009	158.4	08:00	20:41	08:09	21:28	47	Storm	1	Delayed
+51211	Guntur-Secunderabad Express	Express	SCR	Guntur	Secunderabad	1237	113.5	23:30	10:24	00:03	11:34	70	Fog	2	Delayed
+49285	Bareilly-Kanpur Express	Express	NER	Bareilly	Kanpur	220	11.7	13:30	08:19	13:39	08:41	22	Rain	3	Delayed
+48689	Hyderabad-Vijayawada Express	Express	SCR	Hyderabad	Vijayawada	2618	210	16:00	04:28	16:47	06:23	115	Rain	2	Delayed
+40812	Amritsar-Lucknow Express	Express	NR	Amritsar	Lucknow	196	31.4	10:30	16:45	10:37	17:01	16	Heatwave	2	Delayed
+13841	Lucknow-Amritsar Express	Express	NR	Lucknow	Amritsar	130	8.3	14:45	06:21	14:47	06:45	24	Fog	3	Delayed
+61242	Madurai-Coimbatore Express	Express	SR	Madurai	Coimbatore	2093	356.8	23:00	04:52	23:04	05:26	34	Heatwave	1	Delayed
+25718	Vadodara-Mumbai Central Express	Express	WR	Vadodara	Mumbai Central	1484	468.6	08:00	11:10	08:02	11:29	19	Clear	1	Delayed
+85311	Chennai-Madurai Express	Express	SR	Chennai	Madurai	511	123.1	11:30	15:39	11:40	18:02	143	Heatwave	3	Delayed
+89358	Nagpur-Bilaspur Express	Express	SECR	Nagpur	Bilaspur	2163	207.3	12:45	23:11	13:03	23:52	41	Rain	3	Delayed
+59355	Dhanbad-Gaya Express	Express	ECR	Dhanbad	Gaya	940	152.8	23:15	05:24	23:56	06:47	83	Fog	1	Delayed
+23996	Asansol-Howrah Express	Express	ER	Asansol	Howrah	2487	256	13:30	23:13	14:30	01:23	130	Rain	1	Delayed
+20855	Jabalpur-Bhopal Express	Express	WCR	Jabalpur	Bhopal	2665	147.4	21:00	15:05	21:22	16:51	106	Fog	2	Delayed
+32029	Coimbatore-Madurai Express	Express	SR	Coimbatore	Madurai	2669	201.9	22:15	11:28	22:15	12:45	77	Fog	3	Delayed
+91672	Bareilly-Allahabad Express	Express	NER	Bareilly	Allahabad	1367	149.1	17:00	02:10	17:30	03:44	94	Storm	2	Delayed
+49687	Varanasi-Lucknow Express	Express	NR	Varanasi	Lucknow	2352	159.3	00:00	14:46	00:11	15:32	46	Storm	3	Delayed
+70749	Surat-Vadodara Express	Express	WR	Surat	Vadodara	2286	272.1	20:00	04:24	20:29	05:24	60	Clear	3	Delayed
+54105	Kota-Bhopal Express	Express	WCR	Kota	Bhopal	1952	1889	08:45	09:47	08:55	11:01	74	Fog	1	Delayed
+12830	Itarsi-Jabalpur Express	Express	WCR	Itarsi	Jabalpur	465	36.3	09:00	21:49	09:12	00:00	131	Rain	3	Delayed
+18322	Varanasi-New Delhi Express	Express	NR	Varanasi	New Delhi	1017	293.4	04:00	07:28	04:42	09:27	119	Clear	2	Delayed
+45587	Muzaffarpur-Gaya Express	Express	ECR	Muzaffarpur	Gaya	2535	212.4	02:00	13:56	02:17	14:46	50	Fog	1	Delayed
+29624	Hyderabad-Vijayawada Passenger	Passenger	SCR	Hyderabad	Vijayawada	1561	87.8	17:15	11:02	17:29	11:33	31	Heatwave	3	Delayed
+63590	Trivandrum-Chennai Passenger	Passenger	SR	Trivandrum	Chennai	2681	448.1	15:15	21:14	15:53	23:22	128	Clear	3	Delayed
+39550	Ahmedabad-Vadodara Passenger	Passenger	WR	Ahmedabad	Vadodara	1749	172	12:15	22:25	13:01	00:41	136	Storm	2	Delayed
+88263	Trivandrum-Madurai Passenger	Passenger	SR	Trivandrum	Madurai	886	67.3	06:45	19:55	06:45	20:49	54	Clear	1	Delayed
+54687	Gorakhpur-Allahabad Passenger	Passenger	NER	Gorakhpur	Allahabad	770	85.2	20:00	05:02	20:52	07:02	120	Rain	2	Delayed
+77778	Sealdah-Asansol Passenger	Passenger	ER	Sealdah	Asansol	842	42.4	00:15	20:06	00:27	21:25	79	Clear	1	Delayed
+22332	Mumbai Central-Ahmedabad Passenger	Passenger	WR	Mumbai Central	Ahmedabad	1086	48	02:30	01:07	03:24	03:07	120	Heatwave	1	Delayed
+26580	Sealdah-Asansol Passenger	Passenger	ER	Sealdah	Asansol	1571	192.8	19:00	03:09	19:00	03:15	6	Clear	3	On Time
+64680	Bilaspur-Nagpur Passenger	Passenger	SECR	Bilaspur	Nagpur	1180	306.5	08:30	12:21	08:42	14:26	125	Fog	1	Delayed
+57441	Sealdah-Howrah Passenger	Passenger	ER	Sealdah	Howrah	409	84.3	19:30	00:21	19:38	00:38	17	Fog	1	Delayed
+23338	Surat-Vadodara Passenger	Passenger	WR	Surat	Vadodara	161	7	15:45	14:37	16:24	16:02	85	Heatwave	3	Delayed
+37672	Varanasi-New Delhi Passenger	Passenger	NR	Varanasi	New Delhi	1574	122	09:15	22:09	09:26	22:58	49	Heatwave	1	Delayed
+58301	Guntur-Secunderabad Passenger	Passenger	SCR	Guntur	Secunderabad	1930	125.5	13:30	04:53	14:06	07:23	150	Rain	1	Delayed
+17689	Coimbatore-Madurai Passenger	Passenger	SR	Coimbatore	Madurai	537	36.4	21:00	11:44	21:15	14:27	163	Rain	1	Delayed
+38799	Surat-Mumbai Central Passenger	Passenger	WR	Surat	Mumbai Central	1726	2589	22:30	23:10	22:45	00:33	83	Rain	1	Delayed
+24959	Ajmer-Jaipur Passenger	Passenger	NWR	Ajmer	Jaipur	2667	272.1	13:00	22:48	13:31	00:52	124	Fog	2	Delayed
+71925	Secunderabad-Hyderabad Passenger	Passenger	SCR	Secunderabad	Hyderabad	1230	121.6	11:45	21:52	12:32	00:32	160	Heatwave	1	Delayed
+87774	Patna-Muzaffarpur Passenger	Passenger	ECR	Patna	Muzaffarpur	2604	431.6	13:45	19:47	13:56	20:13	26	Storm	3	Delayed
+13655	Madurai-Trivandrum Passenger	Passenger	SR	Madurai	Trivandrum	524	64.4	00:45	08:53	01:03	09:57	64	Clear	3	Delayed
+40928	Jabalpur-Bhopal Passenger	Passenger	WCR	Jabalpur	Bhopal	2241	116.3	22:30	17:46	23:13	20:03	137	Storm	1	Delayed
+37699	Nagpur-Durg Passenger	Passenger	SECR	Nagpur	Durg	1415	61.3	19:30	18:35	20:05	20:31	116	Rain	2	Delayed
+54131	Bhopal-Jabalpur Passenger	Passenger	WCR	Bhopal	Jabalpur	1498	211.5	20:00	03:05	20:25	05:20	135	Rain	3	Delayed
+81965	Bhopal-Itarsi Passenger	Passenger	WCR	Bhopal	Itarsi	1158	128.4	01:30	10:31	02:10	12:00	89	Rain	2	Delayed
+96671	Trivandrum-Chennai Passenger	Passenger	SR	Trivandrum	Chennai	1609	347.3	18:30	23:08	18:35	00:11	63	Storm	3	Delayed
+35921	Vijayawada-Secunderabad Passenger	Passenger	SCR	Vijayawada	Secunderabad	2357	108.5	09:15	06:59	09:19	07:21	22	Heatwave	1	Delayed
+25635	Jabalpur-Kota Passenger	Passenger	WCR	Jabalpur	Kota	1272	54.7	20:30	19:44	20:57	21:49	125	Fog	1	Delayed
+51031	Raipur-Nagpur Passenger	Passenger	SECR	Raipur	Nagpur	2094	135.4	19:00	10:28	19:43	12:18	110	Heatwave	2	Delayed
+43642	Mumbai Central-Vadodara Passenger	Passenger	WR	Mumbai Central	Vadodara	1146	80.8	10:45	00:56	11:19	03:56	180	Rain	1	Delayed
+82646	Hyderabad-Guntur Passenger	Passenger	SCR	Hyderabad	Guntur	1468	61.8	06:45	06:31	06:45	06:52	21	Clear	3	Delayed
+91035	Bilaspur-Raipur Passenger	Passenger	SECR	Bilaspur	Raipur	1477	89.5	23:45	16:15	23:51	17:12	57	Rain	3	Delayed
+33210	New Delhi-Amritsar Passenger	Passenger	NR	New Delhi	Amritsar	2065	601.5	23:15	02:41	00:01	04:27	106	Clear	2	Delayed
+76673	Allahabad-Kanpur Passenger	Passenger	NER	Allahabad	Kanpur	468	28.9	22:15	14:27	22:30	15:53	86	Rain	2	Delayed
+82486	Hyderabad-Guntur Passenger	Passenger	SCR	Hyderabad	Guntur	2358	164.9	17:00	07:18	17:02	07:52	34	Rain	1	Delayed
+17963	Jaipur-Bikaner Passenger	Passenger	NWR	Jaipur	Bikaner	424	90.5	13:15	17:56	14:19	20:34	158	Rain	1	Delayed
+54876	Muzaffarpur-Gaya Passenger	Passenger	ECR	Muzaffarpur	Gaya	1224	53.4	04:30	03:24	05:10	05:16	112	Clear	1	Delayed
+79447	Nagpur-Durg Passenger	Passenger	SECR	Nagpur	Durg	992	60.9	08:00	00:18	08:09	00:47	29	Clear	3	Delayed
+17799	Bikaner-Jodhpur Passenger	Passenger	NWR	Bikaner	Jodhpur	1934	1234.5	16:30	18:04	16:41	18:43	39	Clear	3	Delayed
+67707	Howrah-Sealdah Passenger	Passenger	ER	Howrah	Sealdah	979	44.2	20:00	18:10	20:10	19:00	50	Clear	1	Delayed
+83774	Itarsi-Bhopal Passenger	Passenger	WCR	Itarsi	Bhopal	1666	321.4	05:00	10:11	05:13	11:18	67	Clear	1	Delayed
+43543	Kota-Bhopal Passenger	Passenger	WCR	Kota	Bhopal	341	24.4	09:15	23:13	09:36	01:11	118	Rain	2	Delayed
+37378	Vadodara-Ahmedabad Passenger	Passenger	WR	Vadodara	Ahmedabad	1815	184.3	19:30	05:21	20:36	07:41	140	Storm	3	Delayed
+47527	Durg-Raipur Passenger	Passenger	SECR	Durg	Raipur	1901	115.3	16:30	08:59	16:30	09:04	5	Storm	2	On Time
+90076	Sealdah-Asansol Passenger	Passenger	ER	Sealdah	Asansol	2717	203.8	09:30	22:50	09:34	23:04	14	Storm	1	On Time
+79337	Durg-Bilaspur Passenger	Passenger	SECR	Durg	Bilaspur	927	40.4	00:30	23:26	00:35	01:47	141	Rain	1	Delayed
+90141	Vijayawada-Hyderabad Passenger	Passenger	SCR	Vijayawada	Hyderabad	1190	146.3	09:00	17:08	09:03	19:29	141	Rain	3	Delayed
+84937	Gorakhpur-Allahabad Passenger	Passenger	NER	Gorakhpur	Allahabad	938	120.3	09:30	17:18	10:17	19:06	108	Storm	3	Delayed
+30799	Allahabad-Bareilly Passenger	Passenger	NER	Allahabad	Bareilly	1960	1005.1	06:45	08:42	07:11	10:55	133	Rain	3	Delayed
+55101	Trivandrum-Coimbatore Passenger	Passenger	SR	Trivandrum	Coimbatore	1631	97.9	06:15	22:55	06:51	00:37	102	Storm	1	Delayed
+60969	Patna-Howrah Passenger	Passenger	ER	Patna	Howrah	1778	570.5	18:00	21:07	18:02	22:06	59	Fog	1	Delayed
+70141	Amritsar-Varanasi Passenger	Passenger	NR	Amritsar	Varanasi	1259	160.4	09:30	17:21	09:36	17:58	37	Heatwave	3	Delayed
+37273	Madurai-Chennai Passenger	Passenger	SR	Madurai	Chennai	155	16.5	18:30	03:53	18:30	06:19	146	Storm	1	Delayed
+62559	Jaipur-Ajmer Passenger	Passenger	NWR	Jaipur	Ajmer	2657	330.7	01:45	09:47	02:07	11:34	107	Storm	3	Delayed
+39693	Durg-Raipur Passenger	Passenger	SECR	Durg	Raipur	1991	233.8	10:45	19:16	11:07	20:06	50	Rain	3	Delayed
+51896	Raipur-Durg Passenger	Passenger	SECR	Raipur	Durg	1368	83.7	20:45	13:06	20:46	13:15	9	Storm	1	On Time
+83772	Hyderabad-Guntur Passenger	Passenger	SCR	Hyderabad	Guntur	332	21.4	04:15	19:44	05:17	21:50	126	Rain	3	Delayed
+81920	Hyderabad-Secunderabad Passenger	Passenger	SCR	Hyderabad	Secunderabad	298	17.8	09:45	02:32	09:57	02:59	27	Rain	1	Delayed
+99146	Allahabad-Kanpur Passenger	Passenger	NER	Allahabad	Kanpur	1571	309	18:00	23:05	18:52	01:47	162	Heatwave	2	Delayed
+34539	Durg-Bilaspur Passenger	Passenger	SECR	Durg	Bilaspur	1332	90	03:45	18:33	03:59	21:16	163	Fog	2	Delayed
+50463	Bikaner-Jodhpur Passenger	Passenger	NWR	Bikaner	Jodhpur	1938	130.8	09:00	23:49	10:15	02:46	177	Clear	1	Delayed
+11911	Jabalpur-Bhopal Passenger	Passenger	WCR	Jabalpur	Bhopal	1334	315.1	19:00	23:14	19:07	23:54	40	Heatwave	2	Delayed
+36414	Jabalpur-Kota Passenger	Passenger	WCR	Jabalpur	Kota	1807	266.4	01:15	08:02	01:18	08:57	55	Heatwave	3	Delayed
+69680	Mumbai Central-Ahmedabad Passenger	Passenger	WR	Mumbai Central	Ahmedabad	2562	435.5	00:30	06:23	01:28	08:54	151	Clear	2	Delayed
+34712	Surat-Ahmedabad Passenger	Passenger	WR	Surat	Ahmedabad	2181	160.6	03:15	16:50	03:21	17:06	16	Heatwave	2	Delayed
+60171	Jabalpur-Kota Passenger	Passenger	WCR	Jabalpur	Kota	1301	120.8	03:45	14:31	04:14	16:06	95	Heatwave	3	Delayed
+30637	New Delhi-Lucknow Passenger	Passenger	NR	New Delhi	Lucknow	2114	813.1	22:15	00:51	22:32	01:40	49	Fog	3	Delayed
+96529	Sealdah-Patna Passenger	Passenger	ER	Sealdah	Patna	2554	241.7	18:30	05:04	19:15	07:47	163	Clear	1	Delayed
+61679	Hyderabad-Guntur Passenger	Passenger	SCR	Hyderabad	Guntur	1653	375.7	13:15	17:39	13:26	18:06	27	Fog	2	Delayed
+11606	Guntur-Secunderabad Passenger	Passenger	SCR	Guntur	Secunderabad	2438	6965.7	19:00	19:21	19:49	21:35	134	Clear	1	Delayed
+55419	Madurai-Chennai Passenger	Passenger	SR	Madurai	Chennai	832	1313.7	15:30	16:08	15:40	18:21	133	Storm	3	Delayed
+68806	Dhanbad-Gaya Passenger	Passenger	ECR	Dhanbad	Gaya	426	42.6	14:00	00:00	14:13	00:54	54	Clear	1	Delayed
+74613	Dhanbad-Patna Passenger	Passenger	ECR	Dhanbad	Patna	2502	500.4	04:45	09:45	05:02	10:35	50	Heatwave	2	Delayed
+69391	Vadodara-Mumbai Central Passenger	Passenger	WR	Vadodara	Mumbai Central	760	45.4	07:00	23:45	07:11	02:11	146	Fog	3	Delayed
+73808	Surat-Mumbai Central Passenger	Passenger	WR	Surat	Mumbai Central	1101	226.2	20:45	01:37	20:45	03:22	105	Clear	2	Delayed
+51020	Varanasi-New Delhi Passenger	Passenger	NR	Varanasi	New Delhi	2689	175.2	17:45	09:06	17:59	10:02	56	Heatwave	1	Delayed
+74259	Gaya-Patna Passenger	Passenger	ECR	Gaya	Patna	2299	226.9	21:45	07:53	22:08	10:10	137	Rain	1	Delayed
+93140	Varanasi-Amritsar Passenger	Passenger	NR	Varanasi	Amritsar	1184	82.9	13:00	03:17	13:23	06:12	175	Heatwave	3	Delayed
+35999	Madurai-Chennai Passenger	Passenger	SR	Madurai	Chennai	1548	169.2	22:30	07:39	22:36	08:20	41	Fog	1	Delayed
+70886	Amritsar-New Delhi Passenger	Passenger	NR	Amritsar	New Delhi	374	79.9	00:45	05:26	00:46	06:16	50	Heatwave	2	Delayed
+82124	Bhopal-Itarsi Passenger	Passenger	WCR	Bhopal	Itarsi	210	11.1	01:30	20:25	01:35	20:42	17	Rain	3	Delayed
+25227	New Delhi-Lucknow Passenger	Passenger	NR	New Delhi	Lucknow	1015	42.5	02:00	01:54	02:09	03:42	108	Rain	2	Delayed
+70140	Kanpur-Allahabad Passenger	Passenger	NER	Kanpur	Allahabad	2099	151.6	12:15	02:06	12:26	04:51	165	Rain	2	Delayed
+29732	Durg-Nagpur Passenger	Passenger	SECR	Durg	Nagpur	1890	153.2	08:30	20:50	09:06	22:12	82	Fog	1	Delayed
+16548	Madurai-Chennai Passenger	Passenger	SR	Madurai	Chennai	2693	383.8	10:15	17:16	10:35	18:08	52	Clear	2	Delayed
+95680	Bilaspur-Nagpur Passenger	Passenger	SECR	Bilaspur	Nagpur	852	63.2	01:15	14:44	01:29	17:37	173	Storm	2	Delayed
+70697	Ajmer-Jodhpur Passenger	Passenger	NWR	Ajmer	Jodhpur	410	28	10:15	00:54	10:28	03:17	143	Clear	2	Delayed
+45732	Kota-Bhopal Passenger	Passenger	WCR	Kota	Bhopal	682	45.7	16:00	06:56	16:03	07:31	35	Heatwave	3	Delayed
+69540	Hyderabad-Guntur Passenger	Passenger	SCR	Hyderabad	Guntur	884	92.4	22:45	08:19	22:53	11:11	172	Fog	2	Delayed
+95143	Mumbai Central-Vadodara Passenger	Passenger	WR	Mumbai Central	Vadodara	1300	70.5	21:30	15:57	22:06	17:16	79	Clear	2	Delayed
+51536	Vijayawada-Guntur Passenger	Passenger	SCR	Vijayawada	Guntur	2259	241.6	07:45	17:06	08:10	18:13	67	Storm	1	Delayed
+60675	Trivandrum-Chennai Passenger	Passenger	SR	Trivandrum	Chennai	635	31.7	21:30	17:31	22:03	20:03	152	Rain	2	Delayed
+82932	Nagpur-Durg Passenger	Passenger	SECR	Nagpur	Durg	1679	157.4	09:00	19:40	09:07	20:54	74	Clear	2	Delayed
+46977	Chennai-Trivandrum Passenger	Passenger	SR	Chennai	Trivandrum	482	29	12:45	05:23	12:46	07:51	148	Clear	1	Delayed
+41223	Asansol-Howrah Passenger	Passenger	ER	Asansol	Howrah	1198	764.7	07:00	08:34	07:08	10:32	118	Fog	3	Delayed
+76284	Ahmedabad-Surat Passenger	Passenger	WR	Ahmedabad	Surat	281	70.8	12:30	16:28	12:35	17:27	59	Clear	2	Delayed
+42348	Chennai-Trivandrum Passenger	Passenger	SR	Chennai	Trivandrum	2270	156.4	15:00	05:31	16:13	08:03	152	Heatwave	1	Delayed
+79939	Bikaner-Ajmer Passenger	Passenger	NWR	Bikaner	Ajmer	1185	186.1	12:00	18:22	12:35	21:08	166	Clear	3	Delayed
+17687	Gaya-Muzaffarpur Passenger	Passenger	ECR	Gaya	Muzaffarpur	1592	120.3	01:30	14:44	01:41	15:27	43	Heatwave	3	Delayed
+54773	Jaipur-Bikaner Passenger	Passenger	NWR	Jaipur	Bikaner	2383	201.7	13:45	01:34	14:27	03:55	141	Fog	2	Delayed
+34274	Lucknow-New Delhi Passenger	Passenger	NR	Lucknow	New Delhi	1874	570.8	12:15	15:32	12:17	16:49	77	Fog	1	Delayed
+78634	Vadodara-Ahmedabad Passenger	Passenger	WR	Vadodara	Ahmedabad	1190	440.7	09:45	12:27	10:10	13:53	86	Fog	1	Delayed
+38369	Varanasi-New Delhi Passenger	Passenger	NR	Varanasi	New Delhi	637	69.5	05:00	14:10	05:03	14:28	18	Rain	2	Delayed
+24956	Allahabad-Kanpur Passenger	Passenger	NER	Allahabad	Kanpur	2727	184.5	12:15	03:02	12:24	05:11	129	Storm	3	Delayed
+37295	Bikaner-Jodhpur Passenger	Passenger	NWR	Bikaner	Jodhpur	1135	53	02:15	23:41	02:18	23:51	10	Rain	2	On Time
+64384	Muzaffarpur-Dhanbad Passenger	Passenger	ECR	Muzaffarpur	Dhanbad	1075	56	08:15	03:27	08:52	04:59	92	Storm	1	Delayed
+45100	Kota-Jabalpur Passenger	Passenger	WCR	Kota	Jabalpur	1468	64.2	03:45	02:38	03:48	02:56	18	Heatwave	3	Delayed
+96099	Surat-Mumbai Central Passenger	Passenger	WR	Surat	Mumbai Central	1468	101.5	20:30	10:58	20:57	12:06	68	Heatwave	3	Delayed
+90091	New Delhi-Lucknow Passenger	Passenger	NR	New Delhi	Lucknow	1860	167.6	20:45	07:51	21:14	10:04	133	Clear	3	Delayed
+39755	Hyderabad-Vijayawada Passenger	Passenger	SCR	Hyderabad	Vijayawada	1472	188.7	13:45	21:33	14:37	23:36	123	Storm	1	Delayed
+94034	Nagpur-Durg Passenger	Passenger	SECR	Nagpur	Durg	2690	200	03:00	16:27	03:27	17:38	71	Fog	2	Delayed
+15697	Raipur-Bilaspur Passenger	Passenger	SECR	Raipur	Bilaspur	277	37.9	12:00	19:19	12:09	19:58	39	Clear	3	Delayed
+74193	Secunderabad-Hyderabad Passenger	Passenger	SCR	Secunderabad	Hyderabad	1487	172.6	18:30	03:07	18:39	03:29	22	Storm	2	Delayed
+26687	Secunderabad-Hyderabad Passenger	Passenger	SCR	Secunderabad	Hyderabad	907	187	00:00	04:51	00:11	06:10	79	Clear	2	Delayed
+11518	Asansol-Patna Passenger	Passenger	ER	Asansol	Patna	561	114.9	09:15	14:08	09:17	14:33	25	Fog	2	Delayed
+19042	Chennai-Trivandrum Passenger	Passenger	SR	Chennai	Trivandrum	2216	141.7	02:00	17:38	02:13	18:18	40	Storm	1	Delayed
+19203	Lucknow-New Delhi Passenger	Passenger	NR	Lucknow	New Delhi	1849	78.7	12:15	11:44	12:36	13:23	99	Heatwave	1	Delayed
+39848	Asansol-Patna Passenger	Passenger	ER	Asansol	Patna	2238	449.1	05:00	09:59	05:26	11:31	92	Storm	2	Delayed
+92130	Raipur-Durg Passenger	Passenger	SECR	Raipur	Durg	2072	470.9	21:15	01:39	21:19	02:11	32	Rain	3	Delayed
+31919	Bareilly-Kanpur Passenger	Passenger	NER	Bareilly	Kanpur	1013	81	01:45	14:15	02:18	16:05	110	Storm	2	Delayed
+69201	Jabalpur-Bhopal Passenger	Passenger	WCR	Jabalpur	Bhopal	1208	80.7	02:45	17:43	02:49	19:28	105	Fog	2	Delayed
+65314	Itarsi-Jabalpur Passenger	Passenger	WCR	Itarsi	Jabalpur	843	92.1	19:00	04:09	19:37	05:32	83	Clear	2	Delayed
+51372	Vijayawada-Guntur Passenger	Passenger	SCR	Vijayawada	Guntur	893	541.2	16:00	17:39	16:10	19:47	128	Fog	2	Delayed
+19406	Ajmer-Jodhpur Passenger	Passenger	NWR	Ajmer	Jodhpur	1647	118.2	01:15	15:11	01:18	16:29	78	Fog	2	Delayed
+25244	Trivandrum-Madurai Passenger	Passenger	SR	Trivandrum	Madurai	1271	278.3	03:30	08:04	03:33	08:45	41	Fog	3	Delayed
+68983	Coimbatore-Chennai Passenger	Passenger	SR	Coimbatore	Chennai	983	50.1	23:45	19:23	00:08	20:10	47	Clear	2	Delayed
+40164	Allahabad-Gorakhpur Passenger	Passenger	NER	Allahabad	Gorakhpur	937	263.9	10:15	13:48	10:30	15:28	100	Clear	2	Delayed
+52254	Chennai-Madurai Passenger	Passenger	SR	Chennai	Madurai	2522	957.7	23:45	02:23	23:48	03:16	53	Storm	1	Delayed
+45098	Surat-Vadodara Passenger	Passenger	WR	Surat	Vadodara	1146	256.6	16:15	20:43	16:18	21:14	31	Storm	1	Delayed
+70689	Mumbai Central-Surat Passenger	Passenger	WR	Mumbai Central	Surat	769	33	11:15	10:35	11:38	12:16	101	Rain	1	Delayed
+63038	Itarsi-Bhopal Passenger	Passenger	WCR	Itarsi	Bhopal	1959	176.5	17:00	04:06	17:45	06:33	147	Fog	3	Delayed
+72958	Sealdah-Asansol Passenger	Passenger	ER	Sealdah	Asansol	2155	90.7	12:00	11:46	12:30	12:49	63	Heatwave	3	Delayed
+63894	Dhanbad-Gaya Passenger	Passenger	ECR	Dhanbad	Gaya	2791	533.3	11:45	16:59	12:00	18:24	85	Fog	1	Delayed
+61619	Coimbatore-Madurai Passenger	Passenger	SR	Coimbatore	Madurai	545	25.8	09:15	06:23	09:19	06:46	23	Storm	1	Delayed
+80493	Asansol-Patna Passenger	Passenger	ER	Asansol	Patna	1051	47.5	22:45	20:52	22:57	21:46	54	Clear	1	Delayed
+60232	Coimbatore-Chennai Passenger	Passenger	SR	Coimbatore	Chennai	1962	323.4	19:45	01:49	19:45	03:39	110	Fog	3	Delayed
+71950	Lucknow-Varanasi Passenger	Passenger	NR	Lucknow	Varanasi	2413	147.3	15:45	08:08	15:46	08:39	31	Storm	2	Delayed
+12850	Sealdah-Patna Passenger	Passenger	ER	Sealdah	Patna	1912	177.3	20:30	07:17	20:39	10:00	163	Rain	2	Delayed
+64501	Nagpur-Bilaspur Passenger	Passenger	SECR	Nagpur	Bilaspur	2409	299.9	18:15	02:17	18:21	03:20	63	Clear	2	Delayed
+78722	Kota-Jabalpur Passenger	Passenger	WCR	Kota	Jabalpur	744	44.1	06:30	23:22	07:08	01:14	112	Heatwave	2	Delayed
+27012	Jodhpur-Jaipur Passenger	Passenger	NWR	Jodhpur	Jaipur	90	34.2	13:15	15:53	13:28	18:23	150	Heatwave	1	Delayed
+86303	Kota-Bhopal Passenger	Passenger	WCR	Kota	Bhopal	2014	101	18:30	14:26	18:32	15:40	74	Fog	3	Delayed
+47170	Madurai-Trivandrum Passenger	Passenger	SR	Madurai	Trivandrum	636	54.1	16:30	04:16	16:30	04:21	5	Fog	3	On Time
+55308	Varanasi-Lucknow Passenger	Passenger	NR	Varanasi	Lucknow	1226	57.4	04:30	01:52	05:14	03:31	99	Heatwave	3	Delayed
+87829	Bhopal-Kota Passenger	Passenger	WCR	Bhopal	Kota	460	48.3	13:45	23:16	13:57	01:37	141	Storm	2	Delayed
+29198	Kanpur-Bareilly Passenger	Passenger	NER	Kanpur	Bareilly	343	623.6	11:30	12:03	12:04	13:18	75	Heatwave	2	Delayed
+38906	Patna-Howrah Passenger	Passenger	ER	Patna	Howrah	842	99.8	08:15	16:41	09:11	18:36	115	Heatwave	1	Delayed
+22616	Sealdah-Asansol Passenger	Passenger	ER	Sealdah	Asansol	1741	81.5	15:45	13:06	16:18	15:09	123	Rain	1	Delayed
+92218	Gorakhpur-Bareilly Passenger	Passenger	NER	Gorakhpur	Bareilly	445	20.4	17:45	15:33	17:48	17:21	108	Rain	1	Delayed
+37539	Guntur-Secunderabad Passenger	Passenger	SCR	Guntur	Secunderabad	2708	116.6	02:15	01:28	02:20	02:46	78	Fog	1	Delayed
+55697	Howrah-Asansol Passenger	Passenger	ER	Howrah	Asansol	1688	93.6	01:30	19:32	01:34	22:03	151	Heatwave	2	Delayed
+88694	Mumbai Central-Vadodara Passenger	Passenger	WR	Mumbai Central	Vadodara	1930	526.4	05:45	09:25	06:00	10:23	58	Fog	2	Delayed
+13469	Ahmedabad-Surat Passenger	Passenger	WR	Ahmedabad	Surat	2304	151.2	11:30	02:44	11:43	05:42	178	Clear	1	Delayed
+54495	Varanasi-Amritsar Passenger	Passenger	NR	Varanasi	Amritsar	2011	1040.2	01:30	03:26	02:18	06:10	164	Fog	3	Delayed
+65129	Asansol-Patna Passenger	Passenger	ER	Asansol	Patna	2603	223.8	18:00	05:38	18:18	06:40	62	Heatwave	1	Delayed
+92331	Durg-Raipur Passenger	Passenger	SECR	Durg	Raipur	1495	190.4	20:45	04:36	21:15	05:44	68	Rain	1	Delayed
+88956	Varanasi-Amritsar Passenger	Passenger	NR	Varanasi	Amritsar	2122	595	15:00	18:34	15:38	20:07	93	Fog	2	Delayed
+90113	Mumbai Central-Surat Passenger	Passenger	WR	Mumbai Central	Surat	1854	3476.2	08:15	08:47	08:43	10:55	128	Clear	1	Delayed
+46315	Jodhpur-Jaipur Passenger	Passenger	NWR	Jodhpur	Jaipur	2400	351.2	00:30	07:20	01:21	09:10	110	Rain	1	Delayed
+65392	Jabalpur-Itarsi Passenger	Passenger	WCR	Jabalpur	Itarsi	2402	223.1	05:00	15:46	05:31	17:31	105	Storm	2	Delayed
+49863	Trivandrum-Coimbatore Passenger	Passenger	SR	Trivandrum	Coimbatore	2163	122.1	18:45	12:28	19:27	14:28	120	Rain	1	Delayed
+97985	New Delhi-Lucknow Passenger	Passenger	NR	New Delhi	Lucknow	1925	89.1	20:00	17:36	20:20	18:58	82	Clear	3	Delayed
+45333	Vadodara-Surat Passenger	Passenger	WR	Vadodara	Surat	2460	516.1	05:00	09:46	05:04	10:01	15	Fog	2	On Time
+34911	Varanasi-Amritsar Passenger	Passenger	NR	Varanasi	Amritsar	2508	342	03:00	10:20	03:22	12:18	118	Heatwave	2	Delayed
+88935	Jaipur-Ajmer Passenger	Passenger	NWR	Jaipur	Ajmer	2280	283.2	15:15	23:18	15:16	23:39	21	Fog	2	Delayed
+54913	Itarsi-Kota Passenger	Passenger	WCR	Itarsi	Kota	419	42.1	19:15	05:12	20:24	07:31	139	Fog	2	Delayed
+98146	Madurai-Chennai Passenger	Passenger	SR	Madurai	Chennai	2585	386.8	05:15	11:56	06:06	13:56	120	Storm	1	Delayed
+18024	Vadodara-Mumbai Central Passenger	Passenger	WR	Vadodara	Mumbai Central	1608	368.2	20:30	00:52	20:36	01:31	39	Rain	2	Delayed
+73195	Allahabad-Bareilly Passenger	Passenger	NER	Allahabad	Bareilly	811	50.6	17:45	09:47	17:52	11:42	115	Fog	2	Delayed
+11210	Ajmer-Jodhpur Passenger	Passenger	NWR	Ajmer	Jodhpur	1150	71.6	07:00	23:04	08:07	01:18	134	Heatwave	3	Delayed
+83364	Coimbatore-Trivandrum Passenger	Passenger	SR	Coimbatore	Trivandrum	1114	74.8	17:30	08:23	18:40	10:47	144	Rain	2	Delayed
+24500	Bhopal-Kota Passenger	Passenger	WCR	Bhopal	Kota	435	186.4	18:00	20:20	18:47	22:06	106	Clear	3	Delayed
+75566	New Delhi-Varanasi Passenger	Passenger	NR	New Delhi	Varanasi	1720	246.3	04:15	11:14	04:58	13:20	126	Rain	2	Delayed
+99893	Bilaspur-Durg Passenger	Passenger	SECR	Bilaspur	Durg	1812	229.4	18:45	02:39	18:59	04:02	83	Storm	3	Delayed
+74041	Lucknow-New Delhi Passenger	Passenger	NR	Lucknow	New Delhi	281	36.5	09:30	17:12	10:10	20:05	173	Storm	3	Delayed
+51193	Jaipur-Jodhpur Passenger	Passenger	NWR	Jaipur	Jodhpur	1394	90	12:15	03:44	13:28	06:44	180	Heatwave	3	Delayed
+86225	Madurai-Chennai Passenger	Passenger	SR	Madurai	Chennai	114	6.2	00:45	19:13	00:51	20:03	50	Clear	3	Delayed
+29936	Allahabad-Kanpur Passenger	Passenger	NER	Allahabad	Kanpur	801	59.7	21:30	10:55	21:31	11:47	52	Clear	1	Delayed
+75401	Gorakhpur-Bareilly Passenger	Passenger	NER	Gorakhpur	Bareilly	1671	284	06:30	12:23	07:09	14:10	107	Clear	1	Delayed
+18431	Madurai-Trivandrum Passenger	Passenger	SR	Madurai	Trivandrum	1032	72.6	08:45	22:58	09:40	00:50	112	Heatwave	2	Delayed
+89151	Madurai-Chennai Passenger	Passenger	SR	Madurai	Chennai	558	40.9	06:30	20:08	07:30	22:41	153	Storm	3	Delayed
+97322	Ajmer-Bikaner Passenger	Passenger	NWR	Ajmer	Bikaner	94	7.8	15:15	03:15	15:18	03:21	6	Heatwave	3	On Time
+13293	Jaipur-Jodhpur Passenger	Passenger	NWR	Jaipur	Jodhpur	1979	131.1	23:15	14:21	23:38	15:13	52	Fog	3	Delayed
+17635	New Delhi-Lucknow Passenger	Passenger	NR	New Delhi	Lucknow	1160	370.2	08:45	11:53	08:49	12:48	55	Clear	1	Delayed
+50917	Nagpur-Bilaspur Passenger	Passenger	SECR	Nagpur	Bilaspur	67	13.4	17:00	22:00	18:01	00:33	153	Storm	2	Delayed
+93722	Allahabad-Kanpur Passenger	Passenger	NER	Allahabad	Kanpur	1514	153.2	10:15	20:08	10:39	21:35	87	Heatwave	3	Delayed
+68889	Patna-Asansol Passenger	Passenger	ER	Patna	Asansol	2052	86.4	01:15	01:00	01:41	03:46	166	Clear	3	Delayed
+11099	Ajmer-Jodhpur Passenger	Passenger	NWR	Ajmer	Jodhpur	2661	636.1	22:15	02:26	22:18	03:54	88	Storm	2	Delayed
+19149	Howrah-Patna Passenger	Passenger	ER	Howrah	Patna	129	43.5	02:00	04:58	02:42	06:29	91	Heatwave	2	Delayed
+53492	Bareilly-Allahabad Passenger	Passenger	NER	Bareilly	Allahabad	2381	108.1	07:00	05:02	07:15	07:20	138	Fog	2	Delayed
+88339	Sealdah-Asansol Passenger	Passenger	ER	Sealdah	Asansol	428	120.6	08:00	11:33	08:07	11:56	23	Heatwave	2	Delayed
+98817	Howrah-Sealdah Passenger	Passenger	ER	Howrah	Sealdah	782	132.5	16:45	22:39	16:49	00:14	95	Heatwave	1	Delayed
+22567	Amritsar-New Delhi Passenger	Passenger	NR	Amritsar	New Delhi	242	28.1	14:45	23:22	14:56	23:52	30	Heatwave	2	Delayed
+86499	Coimbatore-Madurai Passenger	Passenger	SR	Coimbatore	Madurai	1638	177.4	11:30	20:44	11:30	21:22	38	Clear	3	Delayed
+45853	Bikaner-Jaipur Passenger	Passenger	NWR	Bikaner	Jaipur	653	48.3	07:00	20:31	07:09	23:04	153	Rain	3	Delayed
+28327	Chennai-Coimbatore Passenger	Passenger	SR	Chennai	Coimbatore	1078	78.5	00:30	14:14	00:41	15:16	62	Fog	2	Delayed
+57581	New Delhi-Varanasi Passenger	Passenger	NR	New Delhi	Varanasi	1759	90.4	20:45	16:12	21:07	17:05	53	Clear	2	Delayed
+31846	Secunderabad-Vijayawada Passenger	Passenger	SCR	Secunderabad	Vijayawada	1599	156.3	10:15	20:29	10:26	20:59	30	Storm	2	Delayed
+48672	Vijayawada-Hyderabad Passenger	Passenger	SCR	Vijayawada	Hyderabad	1669	1410.4	14:45	15:56	15:21	18:02	126	Heatwave	1	Delayed
+11571	Lucknow-Amritsar Passenger	Passenger	NR	Lucknow	Amritsar	254	99.6	08:15	10:48	08:20	11:19	31	Clear	1	Delayed
+74987	Nagpur-Raipur Passenger	Passenger	SECR	Nagpur	Raipur	366	40.8	07:30	16:28	07:54	17:33	65	Storm	2	Delayed
+55336	Jabalpur-Bhopal Passenger	Passenger	WCR	Jabalpur	Bhopal	1226	122.4	06:45	16:46	06:57	17:28	42	Heatwave	3	Delayed
+49055	Lucknow-Varanasi MEMU/EMU	MEMU/EMU	NR	Lucknow	Varanasi	1917	267.5	21:45	04:55	22:06	06:49	114	Heatwave	2	Delayed
+12940	Mumbai Central-Surat MEMU/EMU	MEMU/EMU	WR	Mumbai Central	Surat	1341	80.1	18:15	11:00	18:44	13:19	139	Fog	1	Delayed
+26091	Ajmer-Bikaner MEMU/EMU	MEMU/EMU	NWR	Ajmer	Bikaner	2364	138.5	14:45	07:49	15:47	09:57	128	Rain	2	Delayed
+14282	Coimbatore-Madurai MEMU/EMU	MEMU/EMU	SR	Coimbatore	Madurai	2172	100	18:45	16:28	19:28	18:23	115	Fog	3	Delayed
+53423	Raipur-Durg MEMU/EMU	MEMU/EMU	SECR	Raipur	Durg	523	149.4	09:00	12:30	09:06	14:30	120	Heatwave	2	Delayed
+68752	Gorakhpur-Allahabad MEMU/EMU	MEMU/EMU	NER	Gorakhpur	Allahabad	2349	116.4	07:15	03:26	08:23	05:58	152	Storm	1	Delayed
+55453	Ajmer-Jaipur MEMU/EMU	MEMU/EMU	NWR	Ajmer	Jaipur	795	112.5	09:00	16:04	09:03	16:16	12	Heatwave	1	On Time
+66159	Allahabad-Gorakhpur MEMU/EMU	MEMU/EMU	NER	Allahabad	Gorakhpur	1231	152.6	21:45	05:49	22:07	06:51	62	Storm	1	Delayed
+74752	Trivandrum-Madurai MEMU/EMU	MEMU/EMU	SR	Trivandrum	Madurai	2407	191.3	20:45	09:20	20:45	09:37	17	Rain	2	Delayed
+46269	Guntur-Hyderabad MEMU/EMU	MEMU/EMU	SCR	Guntur	Hyderabad	2250	122.1	11:15	05:41	11:16	05:53	12	Clear	3	On Time
+55733	Gorakhpur-Kanpur MEMU/EMU	MEMU/EMU	NER	Gorakhpur	Kanpur	1482	64.6	02:30	01:26	02:39	02:20	54	Heatwave	1	Delayed
+85322	Secunderabad-Guntur MEMU/EMU	MEMU/EMU	SCR	Secunderabad	Guntur	2257	113.4	03:30	23:24	03:57	00:57	93	Heatwave	3	Delayed
+42520	Coimbatore-Trivandrum MEMU/EMU	MEMU/EMU	SR	Coimbatore	Trivandrum	1062	497.8	14:15	16:23	14:26	19:18	175	Heatwave	1	Delayed
+62892	Jabalpur-Bhopal MEMU/EMU	MEMU/EMU	WCR	Jabalpur	Bhopal	2716	240.7	03:30	14:47	03:40	16:07	80	Heatwave	3	Delayed
+86268	Vadodara-Ahmedabad MEMU/EMU	MEMU/EMU	WR	Vadodara	Ahmedabad	1670	76.2	09:15	07:10	09:49	08:22	72	Fog	1	Delayed
+63817	Lucknow-New Delhi MEMU/EMU	MEMU/EMU	NR	Lucknow	New Delhi	1500	112.6	03:15	16:34	03:31	17:43	69	Fog	2	Delayed
+37234	Jabalpur-Bhopal MEMU/EMU	MEMU/EMU	WCR	Jabalpur	Bhopal	2478	176.6	15:30	05:32	16:14	07:49	137	Heatwave	3	Delayed
+65649	Vadodara-Mumbai Central MEMU/EMU	MEMU/EMU	WR	Vadodara	Mumbai Central	2523	122.7	18:45	15:19	19:30	17:42	143	Fog	2	Delayed
+64782	Kota-Bhopal MEMU/EMU	MEMU/EMU	WCR	Kota	Bhopal	1256	84.2	15:30	06:25	15:49	07:19	54	Heatwave	2	Delayed
+55749	Chennai-Madurai MEMU/EMU	MEMU/EMU	SR	Chennai	Madurai	2432	801.8	19:45	22:47	19:57	00:30	103	Heatwave	2	Delayed
+52392	Asansol-Sealdah MEMU/EMU	MEMU/EMU	ER	Asansol	Sealdah	2574	337.9	09:00	16:37	09:27	19:35	178	Clear	1	Delayed
+71454	Jaipur-Ajmer MEMU/EMU	MEMU/EMU	NWR	Jaipur	Ajmer	116	24.4	04:00	08:45	04:50	11:30	165	Clear	1	Delayed
+64693	Bilaspur-Durg MEMU/EMU	MEMU/EMU	SECR	Bilaspur	Durg	1479	119.6	16:15	04:37	16:21	05:00	23	Heatwave	2	Delayed
+28772	Kanpur-Gorakhpur MEMU/EMU	MEMU/EMU	NER	Kanpur	Gorakhpur	1418	61.1	02:30	01:43	02:56	02:49	66	Clear	1	Delayed
+61905	Bikaner-Ajmer MEMU/EMU	MEMU/EMU	NWR	Bikaner	Ajmer	920	53.2	09:15	02:33	09:16	02:45	12	Storm	1	On Time
+21743	Jodhpur-Bikaner MEMU/EMU	MEMU/EMU	NWR	Jodhpur	Bikaner	174	7.4	05:00	04:28	05:15	06:26	118	Rain	1	Delayed
+53407	Dhanbad-Muzaffarpur MEMU/EMU	MEMU/EMU	ECR	Dhanbad	Muzaffarpur	2305	848.5	14:00	16:43	14:14	17:55	72	Rain	2	Delayed
+22840	Patna-Dhanbad MEMU/EMU	MEMU/EMU	ECR	Patna	Dhanbad	2279	149.3	17:00	08:16	17:09	08:56	40	Clear	1	Delayed
+57761	Varanasi-Amritsar MEMU/EMU	MEMU/EMU	NR	Varanasi	Amritsar	1141	309.8	20:45	00:26	20:48	00:32	6	Rain	1	On Time
+80986	Lucknow-Amritsar MEMU/EMU	MEMU/EMU	NR	Lucknow	Amritsar	684	105.8	19:15	01:43	19:42	04:14	151	Fog	1	Delayed
+40067	Kanpur-Gorakhpur MEMU/EMU	MEMU/EMU	NER	Kanpur	Gorakhpur	1206	367.3	12:00	15:17	12:25	16:59	102	Rain	1	Delayed
+23653	Kota-Itarsi MEMU/EMU	MEMU/EMU	WCR	Kota	Itarsi	1153	48.3	04:45	04:36	04:45	06:11	95	Rain	1	Delayed
+18933	Asansol-Patna MEMU/EMU	MEMU/EMU	ER	Asansol	Patna	704	41.1	09:45	02:52	09:55	03:24	32	Clear	3	Delayed
+58402	Itarsi-Jabalpur MEMU/EMU	MEMU/EMU	WCR	Itarsi	Jabalpur	985	53	10:45	05:20	11:19	07:31	131	Storm	3	Delayed
+51052	Gorakhpur-Allahabad MEMU/EMU	MEMU/EMU	NER	Gorakhpur	Allahabad	2772	424.3	07:15	13:47	07:33	15:15	88	Fog	1	Delayed
+41478	Madurai-Trivandrum MEMU/EMU	MEMU/EMU	SR	Madurai	Trivandrum	599	147.3	06:00	10:04	06:08	12:15	131	Clear	3	Delayed
+79757	Dhanbad-Muzaffarpur MEMU/EMU	MEMU/EMU	ECR	Dhanbad	Muzaffarpur	2601	465.9	19:00	00:35	19:05	01:12	37	Heatwave	1	Delayed
+40711	Ajmer-Jaipur MEMU/EMU	MEMU/EMU	NWR	Ajmer	Jaipur	2444	264.2	01:30	10:45	02:21	12:38	113	Storm	1	Delayed
+86724	Trivandrum-Chennai MEMU/EMU	MEMU/EMU	SR	Trivandrum	Chennai	1290	90.8	08:15	22:27	08:26	00:01	94	Clear	2	Delayed
+49632	Vadodara-Ahmedabad MEMU/EMU	MEMU/EMU	WR	Vadodara	Ahmedabad	2119	236.8	09:15	18:12	09:18	19:03	51	Heatwave	3	Delayed
+14808	Dhanbad-Patna MEMU/EMU	MEMU/EMU	ECR	Dhanbad	Patna	2443	529.2	07:30	12:07	07:36	14:55	168	Clear	3	Delayed
+59215	Varanasi-New Delhi MEMU/EMU	MEMU/EMU	NR	Varanasi	New Delhi	1375	793.3	23:00	00:44	23:37	03:25	161	Clear	2	Delayed
+71038	Trivandrum-Chennai MEMU/EMU	MEMU/EMU	SR	Trivandrum	Chennai	496	49.9	22:30	08:26	22:52	10:05	99	Heatwave	3	Delayed
+14263	Vijayawada-Hyderabad MEMU/EMU	MEMU/EMU	SCR	Vijayawada	Hyderabad	593	235.6	17:15	19:46	18:20	22:28	162	Fog	3	Delayed
+43177	Guntur-Hyderabad MEMU/EMU	MEMU/EMU	SCR	Guntur	Hyderabad	1613	1826	21:15	22:08	21:17	22:30	22	Storm	2	Delayed
+65245	Vadodara-Ahmedabad MEMU/EMU	MEMU/EMU	WR	Vadodara	Ahmedabad	463	37.7	22:15	10:32	22:29	11:02	30	Clear	3	Delayed
+23482	Patna-Muzaffarpur MEMU/EMU	MEMU/EMU	ECR	Patna	Muzaffarpur	441	28	18:00	09:46	18:28	11:35	109	Clear	2	Delayed
+23201	Patna-Sealdah MEMU/EMU	MEMU/EMU	ER	Patna	Sealdah	66	14.6	04:00	08:31	04:00	10:54	143	Rain	1	Delayed
+73576	Nagpur-Durg MEMU/EMU	MEMU/EMU	SECR	Nagpur	Durg	1622	122	01:45	15:03	02:38	17:38	155	Storm	2	Delayed
+56826	Sealdah-Howrah MEMU/EMU	MEMU/EMU	ER	Sealdah	Howrah	2128	296.2	11:45	18:56	11:47	19:15	19	Heatwave	3	Delayed
+37513	Secunderabad-Hyderabad MEMU/EMU	MEMU/EMU	SCR	Secunderabad	Hyderabad	1373	96.4	19:30	09:45	19:54	12:20	155	Storm	3	Delayed
+89610	Gorakhpur-Kanpur MEMU/EMU	MEMU/EMU	NER	Gorakhpur	Kanpur	433	302.1	19:30	20:56	19:33	21:18	22	Storm	2	Delayed
+71794	Patna-Dhanbad MEMU/EMU	MEMU/EMU	ECR	Patna	Dhanbad	477	61	13:00	20:49	13:51	22:49	120	Heatwave	2	Delayed
+93067	Jaipur-Ajmer MEMU/EMU	MEMU/EMU	NWR	Jaipur	Ajmer	2101	6002.9	04:00	04:21	04:02	04:30	9	Rain	2	On Time
+78517	Lucknow-Varanasi MEMU/EMU	MEMU/EMU	NR	Lucknow	Varanasi	1893	91.9	10:00	06:36	11:06	09:17	161	Fog	3	Delayed
+85166	Dhanbad-Gaya MEMU/EMU	MEMU/EMU	ECR	Dhanbad	Gaya	1692	79.2	14:30	11:52	14:34	12:27	35	Storm	3	Delayed
+33728	Itarsi-Jabalpur MEMU/EMU	MEMU/EMU	WCR	Itarsi	Jabalpur	1232	83.1	08:15	23:04	08:21	23:28	24	Heatwave	2	Delayed
+37822	Jabalpur-Itarsi MEMU/EMU	MEMU/EMU	WCR	Jabalpur	Itarsi	2793	236.7	05:00	16:48	05:08	17:13	25	Rain	1	Delayed
+61021	Vijayawada-Guntur MEMU/EMU	MEMU/EMU	SCR	Vijayawada	Guntur	2372	155.9	13:00	04:13	13:13	05:58	105	Clear	2	Delayed
+94841	Dhanbad-Patna MEMU/EMU	MEMU/EMU	ECR	Dhanbad	Patna	1284	96.3	18:15	07:35	18:44	09:45	130	Clear	2	Delayed
+79553	Durg-Raipur MEMU/EMU	MEMU/EMU	SECR	Durg	Raipur	1070	273.2	13:15	17:10	14:07	19:15	125	Storm	1	Delayed
+74606	Kanpur-Allahabad MEMU/EMU	MEMU/EMU	NER	Kanpur	Allahabad	1361	73.6	16:00	10:30	16:06	11:12	42	Heatwave	2	Delayed
+85350	Varanasi-Amritsar MEMU/EMU	MEMU/EMU	NR	Varanasi	Amritsar	2372	228.8	07:00	17:22	07:14	19:06	104	Fog	2	Delayed
+70400	Secunderabad-Vijayawada MEMU/EMU	MEMU/EMU	SCR	Secunderabad	Vijayawada	2603	252.7	18:15	04:33	18:19	05:33	60	Clear	1	Delayed
+91379	Hyderabad-Vijayawada MEMU/EMU	MEMU/EMU	SCR	Hyderabad	Vijayawada	169	24.4	07:15	14:11	07:41	16:01	110	Rain	2	Delayed
+47901	Bareilly-Allahabad MEMU/EMU	MEMU/EMU	NER	Bareilly	Allahabad	2322	98.5	23:00	22:34	00:00	00:39	125	Fog	3	Delayed
+96034	Varanasi-Lucknow MEMU/EMU	MEMU/EMU	NR	Varanasi	Lucknow	1817	130.9	19:00	08:53	19:03	09:55	62	Clear	1	Delayed
+71054	Chennai-Trivandrum MEMU/EMU	MEMU/EMU	SR	Chennai	Trivandrum	629	483.8	21:45	23:03	21:48	23:28	25	Fog	3	Delayed
+10041	Mumbai Central-Ahmedabad MEMU/EMU	MEMU/EMU	WR	Mumbai Central	Ahmedabad	1266	103.3	11:15	23:30	11:32	01:41	131	Storm	1	Delayed
+36342	New Delhi-Varanasi MEMU/EMU	MEMU/EMU	NR	New Delhi	Varanasi	2034	271.8	14:30	21:59	14:46	22:50	51	Heatwave	1	Delayed
+18167	Trivandrum-Madurai MEMU/EMU	MEMU/EMU	SR	Trivandrum	Madurai	2037	706.5	06:15	09:08	06:34	10:36	88	Heatwave	1	Delayed
+87915	Surat-Vadodara MEMU/EMU	MEMU/EMU	WR	Surat	Vadodara	2249	236.3	02:30	12:01	03:34	14:59	178	Clear	1	Delayed
+57092	Vijayawada-Guntur MEMU/EMU	MEMU/EMU	SCR	Vijayawada	Guntur	865	41.1	03:30	00:34	03:44	01:38	64	Fog	3	Delayed
+42466	Varanasi-New Delhi MEMU/EMU	MEMU/EMU	NR	Varanasi	New Delhi	1018	46.8	09:30	07:16	10:05	09:17	121	Rain	2	Delayed
+94439	Itarsi-Jabalpur MEMU/EMU	MEMU/EMU	WCR	Itarsi	Jabalpur	2156	254.6	16:00	00:28	16:24	01:34	66	Fog	1	Delayed
+87641	Gaya-Dhanbad MEMU/EMU	MEMU/EMU	ECR	Gaya	Dhanbad	1655	101.1	12:45	05:07	13:30	07:28	141	Heatwave	3	Delayed
+19587	Muzaffarpur-Dhanbad MEMU/EMU	MEMU/EMU	ECR	Muzaffarpur	Dhanbad	2007	144.7	08:30	22:22	08:37	01:08	166	Rain	1	Delayed
+11412	Mumbai Central-Ahmedabad MEMU/EMU	MEMU/EMU	WR	Mumbai Central	Ahmedabad	1590	467.6	19:45	23:09	20:44	01:28	139	Fog	1	Delayed
+32223	Patna-Dhanbad MEMU/EMU	MEMU/EMU	ECR	Patna	Dhanbad	194	64	09:00	12:02	09:19	13:03	61	Clear	2	Delayed
+24879	Raipur-Durg MEMU/EMU	MEMU/EMU	SECR	Raipur	Durg	1043	359.7	01:00	03:54	01:56	06:05	131	Heatwave	2	Delayed
+36129	Kota-Bhopal MEMU/EMU	MEMU/EMU	WCR	Kota	Bhopal	2377	257.4	02:30	11:44	03:42	14:24	160	Fog	2	Delayed
+75610	Gaya-Dhanbad MEMU/EMU	MEMU/EMU	ECR	Gaya	Dhanbad	1159	63.4	18:30	12:47	18:42	14:10	83	Rain	3	Delayed
+87262	Hyderabad-Guntur MEMU/EMU	MEMU/EMU	SCR	Hyderabad	Guntur	2462	153.2	03:15	19:19	04:04	21:19	120	Clear	1	Delayed
+87405	Raipur-Bilaspur MEMU/EMU	MEMU/EMU	SECR	Raipur	Bilaspur	2063	687.7	10:30	13:30	11:36	16:04	154	Storm	1	Delayed
+17529	Ajmer-Bikaner MEMU/EMU	MEMU/EMU	NWR	Ajmer	Bikaner	2620	275.3	16:30	02:01	16:31	02:44	43	Heatwave	3	Delayed
+17182	Bhopal-Kota MEMU/EMU	MEMU/EMU	WCR	Bhopal	Kota	939	109.6	10:30	19:04	11:39	21:51	167	Storm	1	Delayed
+79187	Bikaner-Jaipur MEMU/EMU	MEMU/EMU	NWR	Bikaner	Jaipur	244	81.8	15:45	18:44	16:09	20:04	80	Heatwave	3	Delayed
+94108	Kanpur-Bareilly MEMU/EMU	MEMU/EMU	NER	Kanpur	Bareilly	412	26.7	04:30	19:55	04:33	20:03	8	Storm	3	On Time
+98143	Patna-Muzaffarpur MEMU/EMU	MEMU/EMU	ECR	Patna	Muzaffarpur	465	24.1	03:30	22:49	03:33	22:55	6	Fog	1	On Time
+36220	Hyderabad-Secunderabad MEMU/EMU	MEMU/EMU	SCR	Hyderabad	Secunderabad	847	219.1	15:45	19:37	16:02	20:57	80	Heatwave	1	Delayed
+47710	Hyderabad-Vijayawada Goods	Goods	SCR	Hyderabad	Vijayawada	304	41.9	03:15	10:30	04:28	13:08	158	Storm	3	Delayed
+41117	Kanpur-Bareilly Goods	Goods	NER	Kanpur	Bareilly	1537	85.3	00:15	18:16	01:10	20:08	112	Storm	3	Delayed
+57574	Ahmedabad-Vadodara Goods	Goods	WR	Ahmedabad	Vadodara	2479	255.1	20:00	05:43	20:44	08:22	159	Heatwave	3	Delayed
+24092	Patna-Muzaffarpur Goods	Goods	ECR	Patna	Muzaffarpur	577	34.2	13:30	06:22	13:47	08:36	134	Storm	3	Delayed
+73745	Jodhpur-Bikaner Goods	Goods	NWR	Jodhpur	Bikaner	1074	195.3	00:00	05:30	00:13	06:58	88	Clear	2	Delayed
+75536	Durg-Nagpur Goods	Goods	SECR	Durg	Nagpur	608	140.3	23:30	03:50	00:11	06:41	171	Fog	3	Delayed
+16165	Ajmer-Bikaner Goods	Goods	NWR	Ajmer	Bikaner	224	18.6	10:30	22:34	11:11	00:24	110	Fog	2	Delayed
+49454	Bilaspur-Durg Goods	Goods	SECR	Bilaspur	Durg	329	20.7	05:45	21:38	05:46	22:59	81	Storm	2	Delayed
+28927	Amritsar-Lucknow Goods	Goods	NR	Amritsar	Lucknow	2119	113.4	10:45	05:26	10:45	06:13	47	Heatwave	1	Delayed
+10877	Raipur-Durg Goods	Goods	SECR	Raipur	Durg	1616	85	16:45	11:46	17:01	12:29	43	Rain	2	Delayed
+53703	Jaipur-Bikaner Goods	Goods	NWR	Jaipur	Bikaner	837	142.3	17:30	23:23	17:30	00:35	72	Rain	3	Delayed
+72894	Allahabad-Gorakhpur Goods	Goods	NER	Allahabad	Gorakhpur	296	18.5	18:30	10:28	18:54	12:22	114	Rain	1	Delayed
+22402	Bareilly-Allahabad Goods	Goods	NER	Bareilly	Allahabad	762	81.4	20:15	05:37	20:17	05:44	7	Fog	3	On Time
+10533	Nagpur-Durg Goods	Goods	SECR	Nagpur	Durg	1442	97.4	19:30	10:18	19:59	13:12	174	Clear	3	Delayed
+20676	Madurai-Chennai Goods	Goods	SR	Madurai	Chennai	1114	84.6	16:15	05:25	16:21	05:38	13	Storm	3	On Time
+25145	Muzaffarpur-Patna Goods	Goods	ECR	Muzaffarpur	Patna	1526	74.7	05:15	01:41	05:51	03:58	137	Clear	3	Delayed
+41823	Jodhpur-Ajmer Goods	Goods	NWR	Jodhpur	Ajmer	2047	200.7	18:30	04:42	18:41	05:56	74	Storm	2	Delayed
+76811	Guntur-Hyderabad Goods	Goods	SCR	Guntur	Hyderabad	901	73.8	01:45	13:58	02:32	15:58	120	Rain	1	Delayed
+30743	Bilaspur-Nagpur Goods	Goods	SECR	Bilaspur	Nagpur	2097	137.1	02:30	17:48	02:38	18:27	39	Rain	1	Delayed
+31495	Guntur-Vijayawada Goods	Goods	SCR	Guntur	Vijayawada	1610	86.9	10:45	05:16	11:02	06:46	90	Heatwave	1	Delayed
+85144	Muzaffarpur-Patna Goods	Goods	ECR	Muzaffarpur	Patna	2628	221.2	12:45	00:38	12:48	01:28	50	Storm	2	Delayed
+86425	Itarsi-Jabalpur Goods	Goods	WCR	Itarsi	Jabalpur	2571	152.6	10:30	03:21	11:17	05:25	124	Clear	3	Delayed
+92308	Mumbai Central-Ahmedabad Goods	Goods	WR	Mumbai Central	Ahmedabad	1288	109	16:15	04:04	16:36	05:42	98	Fog	1	Delayed
+36962	Bhopal-Kota Goods	Goods	WCR	Bhopal	Kota	1531	145.6	11:45	22:16	11:57	23:11	55	Heatwave	1	Delayed
+35795	Gorakhpur-Kanpur Goods	Goods	NER	Gorakhpur	Kanpur	1426	167.8	00:45	09:15	00:59	12:15	180	Clear	3	Delayed
+87128	Ahmedabad-Vadodara Goods	Goods	WR	Ahmedabad	Vadodara	1185	138.3	23:15	07:49	23:19	08:07	18	Heatwave	3	Delayed
+28541	Vadodara-Ahmedabad Goods	Goods	WR	Vadodara	Ahmedabad	1903	143.4	17:00	06:16	17:03	06:52	36	Fog	2	Delayed
+94789	Trivandrum-Chennai Goods	Goods	SR	Trivandrum	Chennai	1890	123.3	06:15	21:35	06:26	22:48	73	Heatwave	2	Delayed
+40571	New Delhi-Amritsar Goods	Goods	NR	New Delhi	Amritsar	382	38.8	04:45	14:36	05:34	16:50	134	Storm	2	Delayed
+54300	Patna-Dhanbad Goods	Goods	ECR	Patna	Dhanbad	1040	63.1	02:00	18:29	02:02	18:45	16	Storm	3	Delayed
+76332	Durg-Bilaspur Goods	Goods	SECR	Durg	Bilaspur	184	20.4	02:30	11:32	02:33	12:00	28	Rain	3	Delayed
+21844	Secunderabad-Hyderabad Goods	Goods	SCR	Secunderabad	Hyderabad	2522	158.3	22:45	14:41	22:46	14:55	14	Clear	3	On Time
+12522	Vijayawada-Guntur Goods	Goods	SCR	Vijayawada	Guntur	2307	456.8	07:30	12:33	08:31	14:41	128	Clear	1	Delayed
+76539	Durg-Nagpur Goods	Goods	SECR	Durg	Nagpur	818	58.4	09:00	23:01	09:09	23:23	22	Storm	3	Delayed
+25828	Patna-Asansol Goods	Goods	ER	Patna	Asansol	963	108.6	02:15	11:07	02:29	11:51	44	Heatwave	1	Delayed
+25616	Chennai-Madurai Goods	Goods	SR	Chennai	Madurai	1362	153.9	12:15	21:06	12:23	21:45	39	Clear	2	Delayed
+24492	Itarsi-Jabalpur Goods	Goods	WCR	Itarsi	Jabalpur	2114	103.3	11:45	08:13	11:54	10:27	134	Storm	3	Delayed
+71684	Lucknow-Varanasi Goods	Goods	NR	Lucknow	Varanasi	1127	47.9	01:00	00:33	01:15	01:11	38	Heatwave	3	Delayed
+64859	Patna-Dhanbad Goods	Goods	ECR	Patna	Dhanbad	1465	212.8	08:30	15:23	08:58	17:16	113	Heatwave	1	Delayed
+67198	Durg-Bilaspur Goods	Goods	SECR	Durg	Bilaspur	747	34.2	02:30	00:21	03:43	03:15	174	Fog	1	Delayed
+59600	Howrah-Asansol Goods	Goods	ER	Howrah	Asansol	843	46.7	09:15	03:17	09:26	03:40	23	Clear	2	Delayed
+61290	Bhopal-Kota Goods	Goods	WCR	Bhopal	Kota	890	122.2	00:30	07:47	00:38	08:26	39	Fog	3	Delayed
+83494	Asansol-Patna Goods	Goods	ER	Asansol	Patna	1808	77	20:00	19:28	20:03	21:54	146	Fog	1	Delayed
+44386	Trivandrum-Coimbatore Goods	Goods	SR	Trivandrum	Coimbatore	368	26	13:00	03:10	13:28	06:06	176	Fog	2	Delayed
+91453	Gorakhpur-Bareilly Goods	Goods	NER	Gorakhpur	Bareilly	1630	568.6	01:15	04:07	01:29	04:42	35	Clear	2	Delayed
+50945	Jaipur-Bikaner Goods	Goods	NWR	Jaipur	Bikaner	470	316.9	13:45	15:14	14:14	16:45	91	Rain	1	Delayed
+20245	Dhanbad-Gaya Goods	Goods	ECR	Dhanbad	Gaya	2738	257.1	18:00	04:39	18:14	05:11	32	Storm	1	Delayed
+89291	New Delhi-Lucknow Goods	Goods	NR	New Delhi	Lucknow	477	87	18:45	00:14	19:26	02:45	151	Clear	1	Delayed
+96060	Amritsar-New Delhi Goods	Goods	NR	Amritsar	New Delhi	1447	447.5	03:45	06:59	03:56	09:36	157	Heatwave	3	Delayed
+22763	Bareilly-Allahabad Goods	Goods	NER	Bareilly	Allahabad	661	78.7	17:15	01:39	17:43	03:07	88	Rain	1	Delayed
+74250	Jabalpur-Bhopal Goods	Goods	WCR	Jabalpur	Bhopal	2789	122.9	16:45	15:27	16:48	15:41	14	Heatwave	3	On Time
+60444	Lucknow-Varanasi Goods	Goods	NR	Lucknow	Varanasi	2797	202.2	19:00	08:50	19:06	09:34	44	Fog	3	Delayed
+87183	Bareilly-Gorakhpur Goods	Goods	NER	Bareilly	Gorakhpur	2622	1656	20:00	21:35	20:04	22:08	33	Storm	3	Delayed
+65074	Jodhpur-Bikaner Goods	Goods	NWR	Jodhpur	Bikaner	479	39.6	04:30	16:36	04:44	19:05	149	Fog	1	Delayed
+87425	Bikaner-Jaipur Goods	Goods	NWR	Bikaner	Jaipur	809	164	04:15	09:11	05:00	10:48	97	Rain	1	Delayed
+73327	Kota-Bhopal Goods	Goods	WCR	Kota	Bhopal	717	46.1	09:30	01:04	09:33	01:25	21	Fog	3	Delayed
+31625	Patna-Sealdah Goods	Goods	ER	Patna	Sealdah	1915	127.5	17:15	08:16	17:54	09:39	83	Heatwave	2	Delayed
+97068	Jabalpur-Kota Goods	Goods	WCR	Jabalpur	Kota	1029	133.9	23:45	07:26	23:48	09:58	152	Heatwave	1	Delayed
+67092	Raipur-Nagpur Goods	Goods	SECR	Raipur	Nagpur	2362	114.8	11:15	07:50	12:06	10:28	158	Rain	3	Delayed
+89193	Madurai-Trivandrum Goods	Goods	SR	Madurai	Trivandrum	2564	278.7	06:45	15:57	06:56	17:08	71	Heatwave	3	Delayed
+48418	Muzaffarpur-Patna Goods	Goods	ECR	Muzaffarpur	Patna	2387	827.9	23:45	02:38	23:55	03:35	57	Heatwave	2	Delayed
+23773	Coimbatore-Trivandrum Goods	Goods	SR	Coimbatore	Trivandrum	954	216.8	02:00	06:24	02:06	06:54	30	Rain	2	Delayed
+62846	Allahabad-Gorakhpur Goods	Goods	NER	Allahabad	Gorakhpur	1054	427.3	05:00	07:28	05:23	08:43	75	Storm	2	Delayed
+33109	Lucknow-New Delhi Goods	Goods	NR	Lucknow	New Delhi	545	77.7	16:30	23:31	16:45	00:01	30	Rain	1	Delayed
+78165	Raipur-Nagpur Goods	Goods	SECR	Raipur	Nagpur	546	45.8	20:45	08:40	21:06	10:27	107	Clear	1	Delayed
+87175	Madurai-Coimbatore Goods	Goods	SR	Madurai	Coimbatore	1513	246.7	23:15	05:23	23:33	06:04	41	Rain	3	Delayed
+46366	Asansol-Howrah Goods	Goods	ER	Asansol	Howrah	733	237.7	19:15	22:20	19:41	23:21	61	Storm	2	Delayed
+24946	Trivandrum-Coimbatore Goods	Goods	SR	Trivandrum	Coimbatore	2667	268.5	04:00	13:56	04:24	15:57	121	Heatwave	3	Delayed
+89107	Ahmedabad-Vadodara Goods	Goods	WR	Ahmedabad	Vadodara	440	20.9	08:45	05:47	09:15	08:46	179	Fog	1	Delayed
+74767	Trivandrum-Coimbatore Goods	Goods	SR	Trivandrum	Coimbatore	54	3	08:00	02:14	08:56	04:38	144	Heatwave	2	Delayed
+27042	Jabalpur-Kota Goods	Goods	WCR	Jabalpur	Kota	346	29.2	17:15	05:06	17:22	05:29	23	Fog	1	Delayed
+10683	Kota-Jabalpur Goods	Goods	WCR	Kota	Jabalpur	1649	162.7	12:30	22:38	12:34	01:32	174	Clear	1	Delayed
+43180	Kanpur-Allahabad Goods	Goods	NER	Kanpur	Allahabad	2516	582.9	05:45	10:04	06:17	12:07	123	Storm	3	Delayed
+62600	Vadodara-Ahmedabad Goods	Goods	WR	Vadodara	Ahmedabad	2067	119.6	18:00	11:17	18:30	13:02	105	Rain	2	Delayed
+12164	Muzaffarpur-Dhanbad Goods	Goods	ECR	Muzaffarpur	Dhanbad	2172	183.5	01:30	13:20	01:36	15:46	146	Storm	2	Delayed
+23136	Jodhpur-Bikaner Goods	Goods	NWR	Jodhpur	Bikaner	390	1950	00:15	00:27	00:36	02:46	139	Heatwave	2	Delayed
+63356	Kota-Itarsi Goods	Goods	WCR	Kota	Itarsi	860	61.9	17:15	07:09	17:21	07:21	12	Fog	2	On Time
+63910	Mumbai Central-Ahmedabad Goods	Goods	WR	Mumbai Central	Ahmedabad	2038	190.8	19:30	06:11	19:37	06:43	32	Fog	1	Delayed
+18838	Gorakhpur-Kanpur Goods	Goods	NER	Gorakhpur	Kanpur	304	53	05:15	10:59	05:17	11:07	8	Fog	1	On Time
+82704	Coimbatore-Madurai Goods	Goods	SR	Coimbatore	Madurai	1904	601.3	00:45	03:55	01:39	06:23	148	Storm	2	Delayed
+59518	Coimbatore-Chennai Goods	Goods	SR	Coimbatore	Chennai	538	408.6	20:00	21:19	20:00	21:35	16	Heatwave	1	Delayed
+89343	Madurai-Coimbatore Goods	Goods	SR	Madurai	Coimbatore	1626	294.7	01:45	07:16	02:14	10:10	174	Storm	2	Delayed
+15828	Patna-Gaya Goods	Goods	ECR	Patna	Gaya	383	24.8	14:30	05:55	14:49	07:04	69	Storm	1	Delayed
+22615	Jaipur-Bikaner Goods	Goods	NWR	Jaipur	Bikaner	2358	113.2	18:30	15:20	19:25	18:04	164	Fog	3	Delayed
+36282	Hyderabad-Guntur Goods	Goods	SCR	Hyderabad	Guntur	1300	75.7	04:15	21:26	05:01	22:59	93	Heatwave	1	Delayed
+40923	Allahabad-Bareilly Goods	Goods	NER	Allahabad	Bareilly	961	161.5	21:00	02:57	21:03	03:03	6	Fog	2	On Time
+42170	Kota-Jabalpur Goods	Goods	WCR	Kota	Jabalpur	2123	150.4	21:45	11:52	21:56	14:01	129	Storm	2	Delayed
+21690	Hyderabad-Secunderabad Goods	Goods	SCR	Hyderabad	Secunderabad	678	31.6	06:45	04:14	06:53	06:10	116	Rain	1	Delayed
+73318	Kota-Bhopal Goods	Goods	WCR	Kota	Bhopal	521	28.2	14:15	08:45	14:27	09:12	27	Rain	3	Delayed
+92226	Trivandrum-Chennai Goods	Goods	SR	Trivandrum	Chennai	1923	140.5	14:00	03:41	14:41	05:22	101	Rain	1	Delayed
+54167	Allahabad-Gorakhpur Goods	Goods	NER	Allahabad	Gorakhpur	495	21.6	12:15	11:11	13:10	14:02	171	Heatwave	1	Delayed
+45424	Mumbai Central-Surat Goods	Goods	WR	Mumbai Central	Surat	1618	177.8	11:45	20:51	12:27	22:25	94	Fog	3	Delayed
+39152	Itarsi-Jabalpur Goods	Goods	WCR	Itarsi	Jabalpur	183	8.9	20:15	16:47	20:17	17:03	16	Storm	3	Delayed
+89206	Gorakhpur-Bareilly Goods	Goods	NER	Gorakhpur	Bareilly	1085	81.3	15:45	05:06	15:47	05:59	53	Storm	2	Delayed
+96030	Raipur-Nagpur Goods	Goods	SECR	Raipur	Nagpur	2378	457.3	23:15	04:27	23:32	06:54	147	Fog	3	Delayed
+82470	Raipur-Durg Goods	Goods	SECR	Raipur	Durg	499	28	19:30	13:21	19:49	14:27	66	Heatwave	3	Delayed
+41286	Raipur-Nagpur Goods	Goods	SECR	Raipur	Nagpur	663	27.7	05:00	04:56	06:02	07:22	146	Clear	1	Delayed
+98334	Durg-Raipur Goods	Goods	SECR	Durg	Raipur	719	60.6	10:15	22:07	10:36	00:50	163	Rain	1	Delayed
+32160	Gaya-Muzaffarpur Goods	Goods	ECR	Gaya	Muzaffarpur	1588	160.4	10:15	20:09	10:17	20:18	9	Fog	2	On Time
+85789	Varanasi-Lucknow Goods	Goods	NR	Varanasi	Lucknow	2318	1022.6	13:00	15:16	13:23	18:15	179	Clear	2	Delayed

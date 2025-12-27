@@ -1,0 +1,43 @@
+/* 1. Import the compiled Tailwind CSS styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 2. Global Resets and Base Styling */
+
+/* Ensure the body and root container fill the entire viewport */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* Set a default background color from the custom palette */
+  background-color: #121212; /* Corresponds to rail-dark */
+  /* Apply the mono font for the control-room feel */
+  font-family: 'Roboto Mono', monospace; 
+}
+
+/* 3. Custom Mapbox Component Overrides */
+
+/* Ensure the map container takes up the exact space defined by its parent React component */
+.map-container {
+  height: 100%;
+  width: 100%;
+}
+
+/* Optional: Override Mapbox attribution text color for better visibility on dark background */
+.mapboxgl-ctrl-bottom-right .mapboxgl-ctrl,
+.mapboxgl-ctrl-bottom-left .mapboxgl-ctrl {
+  color: #fff !important; 
+  opacity: 0.7;
+}
+
+/* 4. Global Animation for Blink Effect (For Held Trains) */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.2; }
+}
+
+/* Example class, though the blinking logic is handled directly in MapComponent.tsx using CSS properties/JS intervals */
+.blink-held-train {
+  animation: blink 1s step-end infinite;
+}
