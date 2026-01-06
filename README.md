@@ -117,13 +117,19 @@ Academic & hackathon projects
 
 Data-driven visualization
 
-👨‍💻 Author
+Team Leader
 
 Digesh Kumar Tandan
 
-🎓 MCA Student
+Team Members
 
-💡 Full Stack Developer | AI Enthusiast
+Harsh Kumar
+
+Nandini Malviya
+
+Prakriti Choudhary
+
+Yagini Sahu
 
 🔗 GitHub: https://github.com/digesh-tandan
 
