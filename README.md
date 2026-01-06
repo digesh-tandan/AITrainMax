@@ -117,6 +117,8 @@ Academic & hackathon projects
 
 Data-driven visualization
 
+Created & Managed by Team Junoon
+
 Team Leader
 
 Digesh Kumar Tandan
