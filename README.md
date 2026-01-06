@@ -117,19 +117,19 @@ Academic & hackathon projects
 
 Data-driven visualization
 
-Team Leader
-
-Digesh Kumar Tandan
+Created & Managed by Team Junoon
 
 Team Members
 
-Harsh Kumar
+Digesh Kumar Tandan (Team Lead & Backend)
 
-Nandini Malviya
+Harsh Kumar (Frontend)
 
-Prakriti Choudhary
+Nandini Malviya (Database)
 
-Yagini Sahu
+Prakriti Choudhary (Frontend)
+
+Yagini Sahu (Backend)
 
 🔗 GitHub: https://github.com/digesh-tandan
 
