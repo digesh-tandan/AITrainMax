@@ -131,6 +131,8 @@ Nandini Malviya (Database)
 
 Prakriti Choudhary (Frontend)
 
+Ravi Kumar Kaiwart (Database)
+
 Yagini Sahu (Backend)
 
 🔗 GitHub: https://github.com/digesh-tandan
