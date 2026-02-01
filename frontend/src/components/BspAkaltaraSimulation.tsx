@@ -310,14 +310,13 @@ const BspAkaltaraSimulation: React.FC = () => {
         <div>
           <div className="font-semibold text-white mb-1">Scenario Summary</div>
           <ul className="list-disc list-inside space-y-1">
-            <li>MEMU Local Track 1 par BSP → Akaltara → Champa.</li>
+            <li>MEMU Local in Track 1  BSP → Akaltara → Champa.</li>
             <li>
-              Rajdhani Track 2 se aakar Akaltara par MEMU ko overtake karke Track 1
-              par aa jati hai.
+              The Rajdhani arrives on Track 2, overtakes the MEMU at Akaltara, 
+              and then moves onto Track 1.
             </li>
             <li>
-              Janshatabdi Track 3 par Akaltara pe hold, Utkal Track 2 se aakar
-              Akaltara par Track 3 pe shift hokar usko overtake karti hai.
+              The Janshatabdi is held on Track 3 at Akaltara. The Utkal arrives on Track 2, shifts to Track 3 at Akaltara, and overtakes it.
             </li>
           </ul>
         </div>
