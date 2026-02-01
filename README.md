@@ -87,6 +87,8 @@ cd backend
 
 pip install -r requirements.txt
 
+venv/Scripts/activate
+
 python app.py
 
 ▶ Frontend Setup
@@ -95,7 +97,7 @@ cd frontend
 
 npm install
 
-npm run dev
+npm start
 
 📁 Important Notes
 
