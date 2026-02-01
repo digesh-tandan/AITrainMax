@@ -1,4 +1,4 @@
-train_no	train_name	train_type	schedule_ar	schedule_dep	actual_ar	actual_dep	delay	track	direction
+train_no	train_name	train_type	schedule_ar	schedule_dep	actual_ar	actual_dep	delay	track	directions
 69019	Rajnandgaon-Raigarh Vande Bharat	Vande Bharat	03:24	16:45	04:43	17:19	79	3	up
 33606	Bilaspur-Dongargarh Vande Bharat	Vande Bharat	13:42	11:15	13:57	11:20	15	1	down
 35294	Balod-Dongargarh Rajdhani	Rajdhani	19:11	14:45	21:00	15:20	109	3	up
