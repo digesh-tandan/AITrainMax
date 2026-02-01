@@ -1,4 +1,4 @@
-train_id	train_name	train_type	zone	source	destination	distance_km	avg_speed_kmph	scheduled_departure	scheduled_arrival	actual_departure	actual_arrival	delay_minutes	weather_condition	track_number	status
+train_id	train_name	train_type	zone	source	destination	distance_km	avg_speed_kmph	scheduled_departure	scheduled_arrival	actual_departure	actual_arrival	delay_minutes	weather_conditions	track_number	status
 46808	Varanasi-Amritsar Vande Bharat	Vande Bharat	NR	Varanasi	Amritsar	1297	82.9	11:00	02:39	11:07	04:53	134	Clear	3	Delayed
 99362	Gaya-Dhanbad Vande Bharat	Vande Bharat	ECR	Gaya	Dhanbad	423	68.6	03:15	09:25	03:26	10:45	80	Fog	3	Delayed
 84322	Asansol-Sealdah Vande Bharat	Vande Bharat	ER	Asansol	Sealdah	1887	97.5	13:15	08:36	13:50	10:47	131	Fog	2	Delayed
