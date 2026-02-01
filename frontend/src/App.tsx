@@ -138,7 +138,7 @@ const App: React.FC = () => {
 
       <footer className="p-2 bg-rail-mid text-xs text-gray-500 border-t border-rail-light flex justify-between">
         <span className="text-rail-accent">© Created by Team Junoon</span>
-        <span>Digesh Kumar Tandan , Harsh Kumar Sahani , Nandini Malviya , Prakriti Choudhary , Ravi Kumar Kaiwart , Yagini Sahu</span>
+        <span>Digesh Kumar Tandan , Shruti Vishwakarma , Harsh Kumar Sahani , Nandini Malviya , Prakriti Choudhary , Ravi Kumar Kaiwart , Yagini Sahu</span>
         <span>Version: v1.3.1</span>
       </footer>
     </div>
