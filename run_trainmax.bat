@@ -21,7 +21,8 @@ start cmd /k "cd /d frontend && npm start"
 echo.
 echo =============================================
 echo  ✅ All systems running!
-echo  Backend → 127.0.0.1:5000
+echo  Backend → 127.0.0.1:5000 
+echo  Backend check → http://127.0.0.1:5000/api/trains/active
 echo  Frontend → http://localhost:3000
 echo =============================================
 echo.
